@@ -1,0 +1,1 @@
+{"name":"Local: SecondLargest","url":"d:\\CodeChef\\SecondLargest.java","tests":[{"id":1669680367898,"input":"3 \n120 11 400\n10213 312 10\n10 3 450","output":"120\n312\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\SecondLargest.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ChefGivesParty","url":"d:\\CodeChef\\ChefGivesParty.java","tests":[{"id":1669770258464,"input":"4\n5 10 70\n5 10 40\n10 40 400\n14 14 150","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefGivesParty.java","group":"local","local":true}

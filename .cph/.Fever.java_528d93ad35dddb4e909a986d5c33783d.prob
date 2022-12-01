@@ -1,0 +1,1 @@
+{"name":"Local: Fever","url":"d:\\CodeChef\\Fever.java","tests":[{"id":1669603014647,"input":"3\n98\n100\n96","output":"NO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\Fever.java","group":"local","local":true}
