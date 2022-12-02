@@ -1,0 +1,1 @@
+{"name":"Local: SimpleStatistics","url":"d:\\CodeChef\\SimpleStatistics.java","tests":[{"id":1669949587316,"input":"3\n5 1\n2 9 -10 25 1\n5 0\n2 9 -10 25 1\n3 1\n1 1 1","output":"4.000000\n5.400000\n1.000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\SimpleStatistics.java","group":"local","local":true}

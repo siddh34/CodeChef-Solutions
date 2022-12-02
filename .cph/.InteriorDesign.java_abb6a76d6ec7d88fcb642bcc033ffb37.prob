@@ -1,0 +1,1 @@
+{"name":"Local: InteriorDesign","url":"d:\\CodeChef\\InteriorDesign.java","tests":[{"id":1669944608533,"input":"4\n10 20 9 25\n10 20 9 20\n10 20 20 10\n100 43 85 61","output":"30\n29\n30\n143"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\InteriorDesign.java","group":"local","local":true}
