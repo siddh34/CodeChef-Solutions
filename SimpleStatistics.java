@@ -4,25 +4,16 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SimpleStatistics {
-    public static float getAvg(List<Float> values,int K) {
-        float avg = 0;
+    public static double getAvg(List<Float> values,int K,int N) {
+        double avg = 0;
 
         Collections.sort(values);
-        if(K == 0){
-            for(int i = 0; i < values.size(); i++){
-                avg += values.get(i);
-            }
-            avg /= values.size();
+        
+        for(int i = (int) K; i < N - K; i++) {
+            avg += values.get(i);
         }
-        else{
-            values.remove(K - 1);
-            Collections.reverse(values);
-            values.remove(K - 1);
-            for(float j: values){
-                avg += j;
-            }
-            avg /= values.size();
-        }
+
+        avg /= (N-2*K);
 
         return avg;
     }
@@ -34,14 +25,14 @@ public class SimpleStatistics {
         List<Float> numbers = new ArrayList<Float>();
 
         while((--T) >= 0){
-            float N = sc.nextFloat();
+            int N = sc.nextInt();
             int K = sc.nextInt();
 
             for(int i = 0; i < N; i++){
                 numbers.add(sc.nextFloat());
             }
 
-            System.out.printf("%.6f\n",getAvg(numbers, K));
+            System.out.println(String.format("%.6f", getAvg(numbers, K, N)));
             numbers.clear();
         }
         

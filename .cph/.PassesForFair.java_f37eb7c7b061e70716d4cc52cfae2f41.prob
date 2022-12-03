@@ -1,0 +1,1 @@
+{"name":"Local: PassesForFair","url":"d:\\CodeChef\\PassesForFair.java","tests":[{"id":1670035593962,"input":"4\n5 8\n6 3\n2 2\n1 2","output":"YES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\PassesForFair.java","group":"local","local":true}
