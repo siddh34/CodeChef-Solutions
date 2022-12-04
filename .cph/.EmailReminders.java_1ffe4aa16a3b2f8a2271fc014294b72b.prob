@@ -1,0 +1,1 @@
+{"name":"Local: EmailReminders","url":"d:\\CodeChef\\EmailReminders.java","tests":[{"id":1670117412009,"input":"100 7","output":"93"},{"id":1670117423136,"input":"4456 342","output":"4114"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\EmailReminders.java","group":"local","local":true}
