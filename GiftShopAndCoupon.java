@@ -11,14 +11,16 @@ public class GiftShopAndCoupon {
 
         Collections.sort(gifts);
 
-        for(int price: gifts){
-            if(totalAmountSpent >= money){
-                break;
-            }
-            totalAmountSpent += price;
+        int j = 0;
+        for(j = 0; j < gifts.size() && totalAmountSpent + gifts.get(j) <= money; j++){
+            totalAmountSpent += gifts.get(j);
             count++;
         }
-        
+
+        if ((j < gifts.size()) && totalAmountSpent + (gifts.get(j)+1)/2 <= money){
+            count++;
+        }
+
         return count;
     }
 
