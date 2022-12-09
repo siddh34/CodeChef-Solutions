@@ -1,0 +1,1 @@
+{"name":"Local: Discount","url":"d:\\CodeChef\\Discount.java","tests":[{"id":1670558087150,"input":"4\n5\n9\n11\n21","output":"95\n91\n89\n79"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\Discount.java","group":"local","local":true}
