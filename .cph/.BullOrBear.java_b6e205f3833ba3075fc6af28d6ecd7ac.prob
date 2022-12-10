@@ -1,0 +1,1 @@
+{"name":"Local: BullOrBear","url":"d:\\CodeChef\\BullOrBear.java","tests":[{"id":1670638968848,"input":"4\n4 2\n8 8\n3 4\n2 1","output":"LOSS\nNEUTRAL\nPROFIT\nLOSS"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\BullOrBear.java","group":"local","local":true}

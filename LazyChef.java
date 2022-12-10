@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Discount {
+public class LazyChef {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
@@ -8,8 +8,10 @@ public class Discount {
         
         while((--T) >= 0){
             int X = sc.nextInt();
+            int M = sc.nextInt();
+            int D = sc.nextInt();
 
-            System.out.println(100 - X);
+            System.out.println(Math.min(X*M,X+D));
         }
         
         sc.close();
