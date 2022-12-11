@@ -1,0 +1,1 @@
+{"name":"Local: Wordle","url":"d:\\CodeChef\\Wordle.java","tests":[{"id":1670718138019,"input":"3\nABCDE\nEDCBA\nROUND\nRINGS\nSTART\nSTUNT","output":"BBGBB\nGBBBB\nGGBBG"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\Wordle.java","group":"local","local":true}
