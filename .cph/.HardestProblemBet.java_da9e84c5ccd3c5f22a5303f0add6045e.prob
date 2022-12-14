@@ -1,0 +1,1 @@
+{"name":"Local: HardestProblemBet","url":"d:\\CodeChef\\HardestProblemBet.java","tests":[{"id":1670822087207,"input":"3\n1 4 2\n16 8 10\n14 15 9","output":"DRAW\nBOB\nALICE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\HardestProblemBet.java","group":"local","local":true}

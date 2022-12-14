@@ -1,0 +1,1 @@
+{"name":"Local: TheBlockGame","url":"d:\\CodeChef\\TheBlockGame.java","tests":[{"id":1670990363399,"input":"3\n331\n666\n343","output":"loses\nwins\nwins"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\TheBlockGame.java","group":"local","local":true}

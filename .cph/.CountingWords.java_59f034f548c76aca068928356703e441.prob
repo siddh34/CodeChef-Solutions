@@ -1,0 +1,1 @@
+{"name":"Local: CountingWords","url":"d:\\CodeChef\\CountingWords.java","tests":[{"id":1670813861707,"input":"4\n1 1\n4 2\n2 4\n95 42","output":"1\n8\n8\n3990"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CountingWords.java","group":"local","local":true}

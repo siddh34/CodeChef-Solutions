@@ -1,0 +1,1 @@
+{"name":"Local: Genes","url":"d:\\CodeChef\\Genes.java","tests":[{"id":1670990982731,"input":"R B","output":"R"},{"id":1670991186157,"input":"B B","output":"B"},{"id":1670991191134,"input":"G B","output":"B"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\Genes.java","group":"local","local":true}

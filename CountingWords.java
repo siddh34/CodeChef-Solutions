@@ -1,16 +1,16 @@
 import java.util.Scanner;
 
-public class WaitingTime{
+public class CountingWords {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
         int T = sc.nextInt();
         
         while((--T) >= 0){
-            int K = sc.nextInt();
-            int X = sc.nextInt();
+            int N = sc.nextInt();
+            int M = sc.nextInt();
 
-            System.out.println(K*7 - X);
+            System.out.println(N*M);
         }
         
         sc.close();
