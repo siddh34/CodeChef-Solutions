@@ -1,0 +1,1 @@
+{"name":"Local: RearrangingToGetMultipleOf5","url":"d:\\CodeChef\\RearrangingToGetMultipleOf5.java","tests":[{"id":1671080480675,"input":"3\n3\n115\n3\n103\n3\n119","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\RearrangingToGetMultipleOf5.java","group":"local","local":true}
