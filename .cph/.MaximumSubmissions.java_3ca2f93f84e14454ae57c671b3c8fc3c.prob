@@ -1,0 +1,1 @@
+{"name":"Local: MaximumSubmissions","url":"d:\\CodeChef\\MaximumSubmissions.java","tests":[{"id":1671245257304,"input":"4\n1\n2\n3\n4","output":"2\n4\n6\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\MaximumSubmissions.java","group":"local","local":true}

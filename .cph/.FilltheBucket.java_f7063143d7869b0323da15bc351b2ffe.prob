@@ -1,0 +1,1 @@
+{"name":"Local: FilltheBucket","url":"d:\\CodeChef\\FilltheBucket.java","tests":[{"id":1671188878008,"input":"2\n5 4\n15 6","output":"1\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\FilltheBucket.java","group":"local","local":true}
