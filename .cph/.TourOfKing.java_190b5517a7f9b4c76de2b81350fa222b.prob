@@ -1,0 +1,1 @@
+{"name":"Local: TourOfKing","url":"d:\\CodeChef\\TourOfKing.java","tests":[{"id":1671334219777,"input":"4\n4 8\n2 13\n14 5\n8 8","output":"76\n101\n105\n96"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\TourOfKing.java","group":"local","local":true}
