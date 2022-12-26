@@ -1,0 +1,1 @@
+{"name":"Local: Playlist","url":"d:\\CodeChef\\Playlist.java","tests":[{"id":1671504757398,"input":"5\n6 1\n5 1\n11 2\n5 8\n100 9","output":"2\n1\n1\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\Playlist.java","group":"local","local":true}
