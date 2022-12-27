@@ -1,0 +1,1 @@
+{"name":"Local: BestCoupon","url":"d:\\CodeChef\\BestCoupon.java","tests":[{"id":1672111948977,"input":"3\n300\n1300\n1000","output":"100\n130\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\BestCoupon.java","group":"local","local":true}
