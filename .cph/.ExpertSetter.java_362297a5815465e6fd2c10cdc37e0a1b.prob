@@ -1,0 +1,1 @@
+{"name":"Local: ExpertSetter","url":"d:\\CodeChef\\ExpertSetter.java","tests":[{"id":1672474118983,"input":"4\n5 3\n1 1\n4 1\n2 1","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ExpertSetter.java","group":"local","local":true}

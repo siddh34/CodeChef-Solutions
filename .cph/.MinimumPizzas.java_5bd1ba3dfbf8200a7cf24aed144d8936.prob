@@ -1,0 +1,1 @@
+{"name":"Local: MinimumPizzas","url":"d:\\CodeChef\\MinimumPizzas.java","tests":[{"id":1672474376873,"input":"4\n1 5\n2 6\n4 3\n3 5","output":"2\n3\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\MinimumPizzas.java","group":"local","local":true}

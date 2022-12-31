@@ -1,0 +1,1 @@
+{"name":"Local: ChefInHisOffice","url":"d:\\CodeChef\\ChefInHisOffice.java","tests":[{"id":1672384868858,"input":"3\n10 5\n12 2\n8 7","output":"45\n50\n39"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefInHisOffice.java","group":"local","local":true}
