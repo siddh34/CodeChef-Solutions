@@ -1,0 +1,1 @@
+{"name":"Local: TestAverages","url":"d:\\CodeChef\\TestAverages.java","tests":[{"id":1672558985227,"input":"4\n23 47 52\n28 36 80\n0 100 0\n35 35 35","output":"PASS\nFAIL\nFAIL\nPASS"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\TestAverages.java","group":"local","local":true}
