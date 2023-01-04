@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndCandies","url":"d:\\CodeChef\\ChefAndCandies.java","tests":[{"id":1672735886521,"input":"4\n20 12\n10 100\n10 9\n20 9","output":"2\n0\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefAndCandies.java","group":"local","local":true}

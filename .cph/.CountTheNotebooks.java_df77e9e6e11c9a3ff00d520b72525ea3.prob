@@ -1,0 +1,1 @@
+{"name":"Local: CountTheNotebooks","url":"d:\\CodeChef\\CountTheNotebooks.java","tests":[{"id":1672735612679,"input":"3\n1\n100\n50","output":"10\n1000\n500"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CountTheNotebooks.java","group":"local","local":true}

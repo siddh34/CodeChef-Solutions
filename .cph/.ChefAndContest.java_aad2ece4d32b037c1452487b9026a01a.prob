@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndContest","url":"d:\\CodeChef\\ChefAndContest.java","tests":[{"id":1672825361390,"input":"3\n10 8 2 3\n10 10 10 10\n40 21 2 0","output":"Chef\nDraw\nChefina"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefAndContest.java","group":"local","local":true}
