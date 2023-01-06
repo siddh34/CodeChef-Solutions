@@ -1,0 +1,1 @@
+{"name":"Local: QualifyTheRound","url":"d:\\CodeChef\\QualifyTheRound.java","tests":[{"id":1672981242451,"input":"3\n15 9 3\n5 3 0\n6 2 8","output":"Qualify\nNotQualify\nQualify"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\QualifyTheRound.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MinimumCarsRequired","url":"d:\\CodeChef\\MinimumCarsRequired.java","tests":[{"id":1672982212960,"input":"4\n4\n2\n7\n98","output":"1\n1\n2\n25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\MinimumCarsRequired.java","group":"local","local":true}
