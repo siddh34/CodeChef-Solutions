@@ -1,0 +1,1 @@
+{"name":"Local: FindTheDirection","url":"d:\\CodeChef\\FindTheDirection.java","tests":[{"id":1673067367432,"input":"3\n1\n3\n6","output":"East\nWest\nSouth"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\FindTheDirection.java","group":"local","local":true}

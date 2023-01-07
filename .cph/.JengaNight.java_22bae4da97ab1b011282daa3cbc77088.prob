@@ -1,0 +1,1 @@
+{"name":"Local: JengaNight","url":"d:\\CodeChef\\JengaNight.java","tests":[{"id":1673066331925,"input":"3\n3 3\n4 2\n2 4","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\JengaNight.java","group":"local","local":true}
