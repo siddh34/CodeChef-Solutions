@@ -1,0 +1,1 @@
+{"name":"Local: DefeatTheMonster1","url":"d:\\CodeChef\\DefeatTheMonster1.java","tests":[{"id":1673166804333,"input":"4\n3 6 2\n4 6 3\n7 1 2\n1 1 2","output":"1\n1\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\DefeatTheMonster1.java","group":"local","local":true}

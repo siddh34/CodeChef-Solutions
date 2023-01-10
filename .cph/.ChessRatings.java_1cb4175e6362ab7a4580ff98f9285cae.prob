@@ -1,0 +1,1 @@
+{"name":"Local: ChessRatings","url":"d:\\CodeChef\\ChessRatings.java","tests":[{"id":1673357905226,"input":"4\n10 10\n10 17\n10 18\n10 19","output":"0\n1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChessRatings.java","group":"local","local":true}

@@ -20,7 +20,7 @@ public class RearrangingToGetMultipleOf5 {
             int D = sc.nextInt();
             String N = sc.next();
 
-            if(isMultipleOf5(N) == 1){
+            if(isMultipleOf5(N) == 1 + (D*0)){
                 System.out.println("YES");
             }
             else{

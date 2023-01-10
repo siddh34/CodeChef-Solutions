@@ -1,0 +1,1 @@
+{"name":"Local: CandyDistribution","url":"d:\\CodeChef\\CandyDistribution.java","tests":[{"id":1673357671203,"input":"4\n9 3\n4 1\n4 2\n8 3","output":"NO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CandyDistribution.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BathInWinters","url":"d:\\CodeChef\\BathInWinters.java","tests":[{"id":1673232505313,"input":"4\n10 6\n25 1\n100 10\n30 40","output":"0\n12\n5\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\BathInWinters.java","group":"local","local":true}
