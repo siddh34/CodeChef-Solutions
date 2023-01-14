@@ -1,0 +1,1 @@
+{"name":"Local: ItIsMyServe","url":"d:\\CodeChef\\ItIsMyServe.java","tests":[{"id":1673546234204,"input":"4\n0 0\n0 2\n2 2\n4 7","output":"Alice\nBob\nAlice\nBob"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ItIsMyServe.java","group":"local","local":true}

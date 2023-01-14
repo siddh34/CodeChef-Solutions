@@ -9,6 +9,7 @@ public class AttackOnKingdom {
         
         int T = sc.nextInt();
         List<Integer> list = new ArrayList<Integer>();
+
         while((--T) >= 0){
             int N = sc.nextInt();
 

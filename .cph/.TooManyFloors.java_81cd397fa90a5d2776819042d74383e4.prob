@@ -1,0 +1,1 @@
+{"name":"Local: TooManyFloors","url":"d:\\CodeChef\\TooManyFloors.java","tests":[{"id":1673720851633,"input":"4\n1 100\n42 50\n53 30\n81 80","output":"9\n0\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\TooManyFloors.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CountTheHolidays","url":"d:\\CodeChef\\CountTheHolidays.java","tests":[{"id":1673528578725,"input":"3\n2\n5 7\n3\n23 1 6\n1\n13","output":"9\n10\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CountTheHolidays.java","group":"local","local":true}
