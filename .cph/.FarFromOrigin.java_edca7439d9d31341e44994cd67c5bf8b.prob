@@ -1,0 +1,1 @@
+{"name":"Local: FarFromOrigin","url":"d:\\CodeChef\\FarFromOrigin.java","tests":[{"id":1674040927485,"input":"3\n-1 0 3 4\n3 4 -4 -3\n8 -6 0 5","output":"BOB\nEQUAL\nALEX"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\FarFromOrigin.java","group":"local","local":true}

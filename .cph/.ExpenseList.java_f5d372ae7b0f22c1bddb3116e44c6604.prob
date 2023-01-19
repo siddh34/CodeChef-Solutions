@@ -1,0 +1,1 @@
+{"name":"Local: ExpenseList","url":"d:\\CodeChef\\ExpenseList.java","tests":[{"id":1673750535761,"input":"4\n1 2\n1 3\n2 3\n3 4","output":"2\n4\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ExpenseList.java","group":"local","local":true}

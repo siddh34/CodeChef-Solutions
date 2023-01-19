@@ -1,0 +1,1 @@
+{"name":"Local: TaxiCost","url":"d:\\CodeChef\\TaxiCost.java","tests":[{"id":1673929633857,"input":"2\n1 53\n0\n2 47\n1\n0","output":"0\n94"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\TaxiCost.java","group":"local","local":true}
