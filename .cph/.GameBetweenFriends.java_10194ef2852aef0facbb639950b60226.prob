@@ -1,0 +1,1 @@
+{"name":"Local: GameBetweenFriends","url":"d:\\CodeChef\\GameBetweenFriends.java","tests":[{"id":1674466665344,"input":"3\n2 3 4 5\n3 3 3 3\n2 3 1 2","output":"S\nN\nS"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\GameBetweenFriends.java","group":"local","local":true}
