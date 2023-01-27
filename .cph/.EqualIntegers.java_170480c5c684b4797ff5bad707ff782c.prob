@@ -1,0 +1,1 @@
+{"name":"Local: EqualIntegers","url":"d:\\CodeChef\\EqualIntegers.java","tests":[{"id":1674793496280,"input":"5\n3 4\n5 5\n7 3\n5 2\n7 12","output":"1\n0\n2\n3\n5\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\EqualIntegers.java","group":"local","local":true}

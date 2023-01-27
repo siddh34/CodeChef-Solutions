@@ -1,0 +1,1 @@
+{"name":"Local: ConstructN","url":"d:\\CodeChef\\ConstructN.java","tests":[{"id":1674797598170,"input":"4\n2\n5\n7\n11","output":"YES\nNO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ConstructN.java","group":"local","local":true}
