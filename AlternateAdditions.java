@@ -10,22 +10,15 @@ public class AlternateAdditions {
             int A = sc.nextInt();
             int B = sc.nextInt();
             
-            while(A < B){
-                if(A % 2 == 0){
-                    A = A + 2;
-                }
-                else{
-                    A = A + 1;
-                }
-            }
+            int diff = B - A;
+            diff = Math.abs(diff - 2);
 
-            if(A == B){
-                System.out.println("YES");
-            }
-            else{
+            if(diff % 3 == 0){
                 System.out.println("NO");
             }
-
+            else{
+                System.out.println("YES");
+            }
         }
         
         sc.close();

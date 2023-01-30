@@ -1,0 +1,1 @@
+{"name":"Local: Factorial","url":"d:\\CodeChef\\Factorial.java","tests":[{"id":1674916587716,"input":"6\n3\n60\n100\n1024\n23456\n8735373","output":"0\n14\n24\n253\n5861\n2183837"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\Factorial.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ProfitIncrement","url":"d:\\CodeChef\\ProfitIncrement.java","tests":[{"id":1674981151640,"input":"4\n100 10\n200 5\n500 10\n100 7","output":"20\n25\n60\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ProfitIncrement.java","group":"local","local":true}
