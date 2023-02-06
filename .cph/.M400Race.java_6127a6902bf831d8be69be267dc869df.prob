@@ -1,0 +1,1 @@
+{"name":"Local: M400Race","url":"d:\\CodeChef\\M400Race.java","tests":[{"id":1675431006768,"input":"3\n1 2 8\n4 100 1\n7 3 5","output":"ALICE\nCHARLIE\nBOB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\M400Race.java","group":"local","local":true}

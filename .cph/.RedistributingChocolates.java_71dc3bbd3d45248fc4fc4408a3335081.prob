@@ -1,0 +1,1 @@
+{"name":"Local: RedistributingChocolates","url":"d:\\CodeChef\\RedistributingChocolates.java","tests":[{"id":1675336317911,"input":"4\n1 2 3\n1 1 1\n2 2 2\n2 1 1","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\RedistributingChocolates.java","group":"local","local":true}

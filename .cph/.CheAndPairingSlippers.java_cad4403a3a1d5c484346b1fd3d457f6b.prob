@@ -1,0 +1,1 @@
+{"name":"Local: CheAndPairingSlippers","url":"d:\\CodeChef\\CheAndPairingSlippers.java","tests":[{"id":1675224123158,"input":"4\n0 0 100\n10 1 0\n1000 10 1000\n10 7 1","output":"0\n0\n10000\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CheAndPairingSlippers.java","group":"local","local":true}

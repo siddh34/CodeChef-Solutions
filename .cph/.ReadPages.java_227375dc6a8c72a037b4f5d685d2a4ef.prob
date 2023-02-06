@@ -1,0 +1,1 @@
+{"name":"Local: ReadPages","url":"d:\\CodeChef\\ReadPages.java","tests":[{"id":1675334927222,"input":"4\n5 2 3\n10 3 3\n7 7 1\n3 2 1","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ReadPages.java","group":"local","local":true}

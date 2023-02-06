@@ -1,0 +1,1 @@
+{"name":"Local: TwoVsTen","url":"d:\\CodeChef\\TwoVsTen.java","tests":[{"id":1675692883384,"input":"3\n10\n25\n1","output":"0\n1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\TwoVsTen.java","group":"local","local":true}

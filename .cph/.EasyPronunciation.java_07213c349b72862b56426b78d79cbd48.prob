@@ -1,0 +1,1 @@
+{"name":"Local: EasyPronunciation","url":"d:\\CodeChef\\EasyPronunciation.java","tests":[{"id":1675067800840,"input":"5\n5\napple\n15\nschtschurowskia\n6\npolish\n5\ntryst\n3\ncry","output":"YES\nNO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\EasyPronunciation.java","group":"local","local":true}

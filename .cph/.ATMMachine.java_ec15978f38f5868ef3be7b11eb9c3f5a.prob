@@ -1,0 +1,1 @@
+{"name":"Local: ATMMachine","url":"d:\\CodeChef\\ATMMachine.java","tests":[{"id":1675337304230,"input":"2\n5 10\n3 5 3 2 1\n4 6\n10 8 6 4","output":"11010\n0010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ATMMachine.java","group":"local","local":true}
