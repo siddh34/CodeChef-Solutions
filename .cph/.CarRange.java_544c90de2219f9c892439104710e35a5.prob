@@ -1,0 +1,1 @@
+{"name":"Local: CarRange","url":"d:\\CodeChef\\CarRange.java","tests":[{"id":1675865793462,"input":"3\n5 10 20\n1 6 10\n4 6 1","output":"120\n60\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CarRange.java","group":"local","local":true}

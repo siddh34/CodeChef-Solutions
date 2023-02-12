@@ -1,0 +1,1 @@
+{"name":"Local: FarAway","url":"d:\\CodeChef\\FarAway.java","tests":[{"id":1676134750591,"input":"4\n2 6\n3 5\n4 1\n1 1 1 1\n5 7\n2 3 4 5 6\n7 24\n23 7 6 16 12 4 24","output":"7\n0\n21\n127"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\FarAway.java","group":"local","local":true}

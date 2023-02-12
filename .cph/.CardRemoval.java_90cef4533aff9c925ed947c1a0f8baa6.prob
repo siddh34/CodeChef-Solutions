@@ -1,0 +1,1 @@
+{"name":"Local: CardRemoval","url":"d:\\CodeChef\\CardRemoval.java","tests":[{"id":1675947960638,"input":"3\n5\n1 1 2 2 3\n4\n8 8 8 8\n6\n5 6 7 8 9 10","output":"3\n0\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CardRemoval.java","group":"local","local":true}
