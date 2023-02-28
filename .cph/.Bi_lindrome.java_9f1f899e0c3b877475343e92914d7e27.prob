@@ -1,0 +1,1 @@
+{"name":"Local: Bi_lindrome","url":"d:\\CodeChef\\Bi_lindrome.java","tests":[{"id":1676383265068,"input":"3\n6\nbabkhj\n3 \nabc \n4 \nqtoo","output":"4\n-1\n2 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\Bi_lindrome.java","group":"local","local":true}

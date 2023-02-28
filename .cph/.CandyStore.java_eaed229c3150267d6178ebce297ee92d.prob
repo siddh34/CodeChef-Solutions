@@ -1,0 +1,1 @@
+{"name":"Local: CandyStore","url":"d:\\CodeChef\\CandyStore.java","tests":[{"id":1677130174188,"input":"4\n3 1\n5 5\n4 7\n2 3","output":"1\n5\n10\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CandyStore.java","group":"local","local":true}

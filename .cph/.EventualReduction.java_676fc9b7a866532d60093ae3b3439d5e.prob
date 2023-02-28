@@ -1,0 +1,1 @@
+{"name":"Local: EventualReduction","url":"d:\\CodeChef\\EventualReduction.java","tests":[{"id":1676465685311,"input":"4\n6\ncabbac\n7\nacabbad\n18\nfbedfcbdaebaaceeba\n21\nyourcrushlovesyouback","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\EventualReduction.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: SorttheString","url":"d:\\CodeChef\\SorttheString.java","tests":[{"id":1677410177488,"input":"4\n3\n000\n4\n1001\n4\n1010\n6\n010101","output":"0\n1\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\SorttheString.java","group":"local","local":true}

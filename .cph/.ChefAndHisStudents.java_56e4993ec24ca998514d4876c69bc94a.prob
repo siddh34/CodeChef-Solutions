@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndHisStudents","url":"d:\\CodeChef\\ChefAndHisStudents.java","tests":[{"id":1676711569811,"input":"4\n><\n*><*\n><><\n*><><><*","output":"0\n0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefAndHisStudents.java","group":"local","local":true}
