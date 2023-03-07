@@ -1,0 +1,1 @@
+{"name":"Local: FriendsMeetup","url":"d:\\CodeChef\\FriendsMeetup.java","tests":[{"id":1677550092995,"input":"3\n1 1\n1 7\n7 1","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\FriendsMeetup.java","group":"local","local":true}

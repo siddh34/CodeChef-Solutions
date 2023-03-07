@@ -1,0 +1,1 @@
+{"name":"Local: NQueensPuzzleSolved","url":"d:\\CodeChef\\NQueensPuzzleSolved.java","tests":[{"id":1677848653665,"input":"2\n4\n10","output":"0\n36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\NQueensPuzzleSolved.java","group":"local","local":true}

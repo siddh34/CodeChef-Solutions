@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndEid","url":"d:\\CodeChef\\ChefAndEid.java","tests":[{"id":1678013262669,"input":"2\n3\n1 4 2\n3\n1 3 3","output":"1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefAndEid.java","group":"local","local":true}

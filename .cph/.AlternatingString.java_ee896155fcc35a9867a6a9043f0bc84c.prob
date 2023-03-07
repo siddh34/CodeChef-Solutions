@@ -1,0 +1,1 @@
+{"name":"Local: AlternatingString","url":"d:\\CodeChef\\AlternatingString.java","tests":[{"id":1677549559499,"input":"4\n3\n110\n4\n1010\n4\n0000\n7\n1101101","output":"3\n4\n1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\AlternatingString.java","group":"local","local":true}

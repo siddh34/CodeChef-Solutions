@@ -1,0 +1,1 @@
+{"name":"Local: BetterDeal","url":"d:\\CodeChef\\BetterDeal.java","tests":[{"id":1677746952256,"input":"4\n5 20\n10 60\n7 7\n10 55","output":"FIRST\nSECOND\nFIRST\nBOTH"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\BetterDeal.java","group":"local","local":true}

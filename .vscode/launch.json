@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudyingAlphabet",
+            "request": "launch",
+            "mainClass": "StudyingAlphabet",
+            "projectName": "CodeChef_ee09d8ec"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlternatingString",
+            "request": "launch",
+            "mainClass": "AlternatingString",
+            "projectName": "CodeChef_ee09d8ec"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
