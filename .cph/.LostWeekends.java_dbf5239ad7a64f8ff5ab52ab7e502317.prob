@@ -1,0 +1,1 @@
+{"name":"Local: LostWeekends","url":"d:\\CodeChef\\LostWeekends.java","tests":[{"id":1678512496283,"input":"2\n14 10 12 6 18 2\n10 10 10 10 10 3","output":"No\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\LostWeekends.java","group":"local","local":true}

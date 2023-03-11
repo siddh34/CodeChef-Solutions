@@ -1,0 +1,1 @@
+{"name":"Local: FoodChain","url":"d:\\CodeChef\\FoodChain.java","tests":[{"id":1678419861799,"input":"3\n5 3\n6 7\n10 2","output":"2\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\FoodChain.java","group":"local","local":true}

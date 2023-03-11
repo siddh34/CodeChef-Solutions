@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndGroups","url":"d:\\CodeChef\\ChefAndGroups.java","tests":[{"id":1678266037204,"input":"4\n000\n010\n101\n01011011011110","output":"0\n1\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefAndGroups.java","group":"local","local":true}
