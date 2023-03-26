@@ -1,0 +1,1 @@
+{"name":"Local: ChangeIt","url":"d:\\CodeChef\\ChangeIt.java","tests":[{"id":1678785494355,"input":"3\n5\n1 1 1 1 1\n4\n9 8 1 8\n2\n1 9","output":"0\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChangeIt.java","group":"local","local":true}

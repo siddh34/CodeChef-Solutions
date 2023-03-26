@@ -1,0 +1,1 @@
+{"name":"Local: NewPiece","url":"d:\\CodeChef\\NewPiece.java","tests":[{"id":1678608114882,"input":"3\n1 1 8 8\n5 7 5 8\n3 3 3 3","output":"2\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\NewPiece.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ThreeFriends","url":"d:\\CodeChef\\ThreeFriends.java","tests":[{"id":1678604832361,"input":"2\n1 2 1\n1 1 1","output":"yes\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ThreeFriends.java","group":"local","local":true}

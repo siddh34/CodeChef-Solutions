@@ -1,0 +1,1 @@
+{"name":"Local: ReachHome","url":"d:\\CodeChef\\ReachHome.java","tests":[{"id":1679802968335,"input":"4\n2 10\n3 17\n4 2\n6 45","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ReachHome.java","group":"local","local":true}
