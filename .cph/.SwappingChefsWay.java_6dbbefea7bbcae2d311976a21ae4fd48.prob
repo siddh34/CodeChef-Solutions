@@ -1,0 +1,1 @@
+{"name":"Local: SwappingChefsWay","url":"d:\\CodeChef\\SwappingChefsWay.java","tests":[{"id":1680341186367,"input":"3\n4\ndbca\n3\nccc\n3\nbza","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\SwappingChefsWay.java","group":"local","local":true}

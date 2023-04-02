@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PowerMDivisibilityBy7",
+            "request": "launch",
+            "mainClass": "PowerMDivisibilityBy7",
+            "projectName": "CodeChef_ee09d8ec"
+        },
+        {
+            "type": "java",
             "name": "StudyingAlphabet",
             "request": "launch",
             "mainClass": "StudyingAlphabet",

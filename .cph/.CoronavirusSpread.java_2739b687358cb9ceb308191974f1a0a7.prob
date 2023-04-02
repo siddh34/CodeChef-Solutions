@@ -1,0 +1,1 @@
+{"name":"Local: CoronavirusSpread","url":"d:\\CodeChef\\CoronavirusSpread.java","tests":[{"id":1679904268559,"input":"3\n2\n3 6\n3\n1 3 5\n5\n1 2 5 6 7","output":"1 1\n3 3\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\CoronavirusSpread.java","group":"local","local":true}

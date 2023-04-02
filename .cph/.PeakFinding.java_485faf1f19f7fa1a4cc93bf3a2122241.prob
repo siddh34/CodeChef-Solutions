@@ -1,0 +1,1 @@
+{"name":"Local: PeakFinding","url":"d:\\CodeChef\\PeakFinding.java","tests":[{"id":1680006581947,"input":"1\n5\n4\n7\n6\n3\n1","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\PeakFinding.java","group":"local","local":true}
