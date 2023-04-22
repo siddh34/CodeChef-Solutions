@@ -1,0 +1,1 @@
+{"name":"Local: ScoreHigh","url":"d:\\CodeChef\\ScoreHigh.java","tests":[{"id":1681018156425,"input":"2\n5\n0 0 5 0\n10\n7 1 1 1","output":"5\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ScoreHigh.java","group":"local","local":true}

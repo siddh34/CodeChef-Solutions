@@ -1,0 +1,1 @@
+{"name":"Local: ChefVsDoof","url":"d:\\CodeChef\\ChefVsDoof.java","tests":[{"id":1681310147873,"input":"2\n5\n1 2 5 4 3\n1\n7","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\ChefVsDoof.java","group":"local","local":true}

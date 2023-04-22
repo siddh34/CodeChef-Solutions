@@ -1,0 +1,1 @@
+{"name":"Local: EqualCoins","url":"d:\\CodeChef\\EqualCoins.java","tests":[{"id":1681645802291,"input":"4\n2 2\n1 3\n4 0\n1 10","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\EqualCoins.java","group":"local","local":true}

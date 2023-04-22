@@ -1,0 +1,1 @@
+{"name":"Local: PseudoSortedArray","url":"d:\\CodeChef\\PseudoSortedArray.java","tests":[{"id":1680754539297,"input":"3\n5\n3 5 7 8 9\n4\n1 3 2 3\n3\n3 2 1","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\PseudoSortedArray.java","group":"local","local":true}
