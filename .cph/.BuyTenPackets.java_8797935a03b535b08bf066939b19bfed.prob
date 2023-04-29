@@ -1,0 +1,1 @@
+{"name":"Local: BuyTenPackets","url":"d:\\CodeChef\\BuyTenPackets.java","tests":[{"id":1682674293507,"input":"4\n5 10\n8 12\n98 99\n1 2","output":"25\n32\n296\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef\\BuyTenPackets.java","group":"local","local":true}

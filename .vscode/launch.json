@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ABooks",
+            "request": "launch",
+            "mainClass": "ABooks",
+            "projectName": "CodeChef_ee09d8ec"
+        },
+        {
+            "type": "java",
+            "name": "InsideTheStadium",
+            "request": "launch",
+            "mainClass": "InsideTheStadium",
+            "projectName": "CodeChef_ee09d8ec"
+        },
+        {
+            "type": "java",
             "name": "PowerMDivisibilityBy7",
             "request": "launch",
             "mainClass": "PowerMDivisibilityBy7",
