@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Laddu",
+            "request": "launch",
+            "mainClass": "Laddu",
+            "projectName": "CodeChef-Solutions_1d880659"
+        },
+        {
+            "type": "java",
             "name": "ABooks",
             "request": "launch",
             "mainClass": "ABooks",

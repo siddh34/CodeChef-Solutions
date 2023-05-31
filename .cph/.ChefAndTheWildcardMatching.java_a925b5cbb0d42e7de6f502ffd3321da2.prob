@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndTheWildcardMatching","url":"d:\\CodeChef-Solutions\\ChefAndTheWildcardMatching.java","tests":[{"id":1683110813482,"input":"2\ns?or?\nsco??\nstor?\nsco??","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\ChefAndTheWildcardMatching.java","group":"local","local":true}

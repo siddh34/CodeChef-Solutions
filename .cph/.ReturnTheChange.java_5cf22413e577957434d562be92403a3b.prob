@@ -1,0 +1,1 @@
+{"name":"Local: ReturnTheChange","url":"d:\\CodeChef-Solutions\\ReturnTheChange.java","tests":[{"id":1682824412533,"input":"4\n35\n54\n80\n12","output":"60\n50\n20\n90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\ReturnTheChange.java","group":"local","local":true}
