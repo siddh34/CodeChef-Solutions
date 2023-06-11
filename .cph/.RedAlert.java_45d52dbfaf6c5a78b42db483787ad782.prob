@@ -1,0 +1,1 @@
+{"name":"Local: RedAlert","url":"d:\\CodeChef-Solutions\\RedAlert.java","tests":[{"id":1686117924490,"input":"4\n4 2 6\n1 3 0 2\n2 1 100\n1 100\n4 2 3\n1 2 0 2\n3 7 10\n5 3 9","output":"NO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\RedAlert.java","group":"local","local":true}

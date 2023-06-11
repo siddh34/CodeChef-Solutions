@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LittleChefAndSums",
+            "request": "launch",
+            "mainClass": "LittleChefAndSums",
+            "projectName": "CodeChef-Solutions_1d880659"
+        },
+        {
+            "type": "java",
+            "name": "CheckAlgorithm",
+            "request": "launch",
+            "mainClass": "CheckAlgorithm",
+            "projectName": "CodeChef-Solutions_1d880659"
+        },
+        {
+            "type": "java",
+            "name": "RedAlert",
+            "request": "launch",
+            "mainClass": "RedAlert",
+            "projectName": "CodeChef-Solutions_1d880659"
+        },
+        {
+            "type": "java",
+            "name": "APFreeSequences",
+            "request": "launch",
+            "mainClass": "APFreeSequences",
+            "projectName": "CodeChef-Solutions_1d880659"
+        },
+        {
+            "type": "java",
             "name": "Laddu",
             "request": "launch",
             "mainClass": "Laddu",

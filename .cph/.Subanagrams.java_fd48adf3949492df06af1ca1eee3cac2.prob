@@ -1,0 +1,1 @@
+{"name":"Local: Subanagrams","url":"d:\\CodeChef-Solutions\\Subanagrams.java","tests":[{"id":1685775657795,"input":"3\nhope\nelephant\npath","output":"hp"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\Subanagrams.java","group":"local","local":true}

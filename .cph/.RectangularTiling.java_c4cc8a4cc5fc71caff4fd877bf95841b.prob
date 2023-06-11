@@ -1,0 +1,1 @@
+{"name":"Local: RectangularTiling","url":"d:\\CodeChef-Solutions\\RectangularTiling.java","tests":[{"id":1685948709976,"input":"3\n4 6\n2 5\n3 3","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\RectangularTiling.java","group":"local","local":true}

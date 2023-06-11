@@ -1,0 +1,1 @@
+{"name":"Local: APFreeSequences","url":"d:\\CodeChef-Solutions\\APFreeSequences.java","tests":[{"id":1685635641734,"input":"4\n3\n1 2 3\n3\n1 2 4\n3\n10 25 40\n4\n1 10 11 21","output":"No\nYes\nNo\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\APFreeSequences.java","group":"local","local":true}

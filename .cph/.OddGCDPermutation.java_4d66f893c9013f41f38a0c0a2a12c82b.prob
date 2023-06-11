@@ -1,0 +1,1 @@
+{"name":"Local: OddGCDPermutation","url":"d:\\CodeChef-Solutions\\OddGCDPermutation.java","tests":[{"id":1685854988053,"input":"3\n5\n6\n17","output":"-1\n6 5 4 3 2 1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\OddGCDPermutation.java","group":"local","local":true}
