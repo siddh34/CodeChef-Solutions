@@ -1,0 +1,1 @@
+{"name":"Local: PrintPattern","url":"d:\\CodeChef-Solutions\\PrintPattern.java","tests":[{"id":1687845369808,"input":"1\n4","output":"1 2 4 7\n3 5 8 11\n6 9 12 14\n10 13 15 16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\PrintPattern.java","group":"local","local":true}

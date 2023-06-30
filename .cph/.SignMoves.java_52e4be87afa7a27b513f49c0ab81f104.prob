@@ -1,0 +1,1 @@
+{"name":"Local: SignMoves","url":"d:\\CodeChef-Solutions\\SignMoves.java","tests":[{"id":1687846581458,"input":"3\n1\n2\n3","output":"-1\n1\n-2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\SignMoves.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BuyingSweets","url":"d:\\CodeChef-Solutions\\BuyingSweets.java","tests":[{"id":1687759589068,"input":"3\n4 7\n10 4 8 5\n1 10\n12\n2 10\n20 50","output":"-1\n1\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\BuyingSweets.java","group":"local","local":true}

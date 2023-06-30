@@ -1,0 +1,1 @@
+{"name":"Local: PingPajaPong","url":"d:\\CodeChef-Solutions\\PingPajaPong.java","tests":[{"id":1687930958250,"input":"3\n1 3 3\n5 7 2\n38657 76322 564","output":"Paja\nChef\nPaja"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\PingPajaPong.java","group":"local","local":true}

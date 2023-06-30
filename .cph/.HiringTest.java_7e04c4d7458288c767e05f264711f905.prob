@@ -1,0 +1,1 @@
+{"name":"Local: HiringTest","url":"d:\\CodeChef-Solutions\\HiringTest.java","tests":[{"id":1687166075882,"input":"3\n4 5\n3 2\nFUFFP\nPFPFU\nUPFFU\nPPPFP\n3 4\n1 3\nPUPP\nUUUU\nUFUU\n1 3\n2 2\nPPP","output":"1100\n101\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\HiringTest.java","group":"local","local":true}

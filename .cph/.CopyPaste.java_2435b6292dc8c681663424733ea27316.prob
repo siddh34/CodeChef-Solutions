@@ -1,0 +1,1 @@
+{"name":"Local: CopyPaste","url":"d:\\CodeChef-Solutions\\CopyPaste.java","tests":[{"id":1688102806230,"input":"2\n5\n1 1 1 1 1\n5\n1 2 3 1 2","output":"1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\CopyPaste.java","group":"local","local":true}
