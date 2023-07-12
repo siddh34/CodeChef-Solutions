@@ -1,0 +1,1 @@
+{"name":"Local: StrongLanguage","url":"d:\\CodeChef-Solutions\\StrongLanguage.java","tests":[{"id":1688876378604,"input":"3\n5 2\n*a*b*\n5 2\n*a**b\n5 1\nabcde","output":"NO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\StrongLanguage.java","group":"local","local":true}

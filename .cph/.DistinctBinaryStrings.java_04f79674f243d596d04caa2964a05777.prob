@@ -1,0 +1,1 @@
+{"name":"Local: DistinctBinaryStrings","url":"d:\\CodeChef-Solutions\\DistinctBinaryStrings.java","tests":[{"id":1688697832264,"input":"3\n3\n100\n4\n1111\n5\n10110","output":"2\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\DistinctBinaryStrings.java","group":"local","local":true}

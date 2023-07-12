@@ -1,0 +1,1 @@
+{"name":"Local: Weeding","url":"d:\\CodeChef-Solutions\\Weeding.java","tests":[{"id":1688285508921,"input":"3\n3 10 1\n4 7 10\n3 10 2\n4 7 10\n4 10 5\n1 2 3 4","output":"Yes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\Weeding.java","group":"local","local":true}

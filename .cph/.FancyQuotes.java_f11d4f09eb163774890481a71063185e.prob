@@ -1,0 +1,1 @@
+{"name":"Local: FancyQuotes","url":"d:\\CodeChef-Solutions\\FancyQuotes.java","tests":[{"id":1688953244143,"input":"2\ni do not have any fancy quotes\nwhen nothing goes right go left","output":"Real Fancy\nregularly fancy"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\FancyQuotes.java","group":"local","local":true}

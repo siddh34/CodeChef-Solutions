@@ -1,0 +1,1 @@
+{"name":"Local: CaesarCipher","url":"d:\\CodeChef-Solutions\\CaesarCipher.java","tests":[{"id":1688571724081,"input":"3\n3\nabc\nbcd\ncde\n2\nbd\nzb\ndd\n4\ncode\nxjyz\nchef","output":"def\nbb\nxcza"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\CaesarCipher.java","group":"local","local":true}

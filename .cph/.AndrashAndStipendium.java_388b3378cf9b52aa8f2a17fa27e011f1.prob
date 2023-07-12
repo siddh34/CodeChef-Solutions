@@ -1,0 +1,1 @@
+{"name":"Local: AndrashAndStipendium","url":"d:\\CodeChef-Solutions\\AndrashAndStipendium.java","tests":[{"id":1688793040872,"input":"2\n5\n3 5 4 4 3\n5\n3 4 4 4 5","output":"No\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeChef-Solutions\\AndrashAndStipendium.java","group":"local","local":true}

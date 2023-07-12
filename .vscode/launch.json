@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChefAndCardGame",
+            "request": "launch",
+            "mainClass": "ChefAndCardGame",
+            "projectName": "CodeChef-Solutions_1d880659"
+        },
+        {
+            "type": "java",
+            "name": "ChefAndSubsetAdditions",
+            "request": "launch",
+            "mainClass": "ChefAndSubsetAdditions",
+            "projectName": "CodeChef-Solutions_1d880659"
+        },
+        {
+            "type": "java",
             "name": "LittleChefAndSums",
             "request": "launch",
             "mainClass": "LittleChefAndSums",
