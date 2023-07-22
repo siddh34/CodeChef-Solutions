@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndSocks","url":"/media/storage/CodeChef-Solutions/ChefAndSocks.java","tests":[{"id":1689822622421,"input":"1 2 3","output":"Unlucky Chef"},{"id":1689822638392,"input":"1 2 6","output":"Lucky Chef"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/ChefAndSocks.java","group":"local","local":true}

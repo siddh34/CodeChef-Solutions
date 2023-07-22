@@ -1,0 +1,1 @@
+{"name":"Local: PhonePrices","url":"/media/storage/CodeChef-Solutions/PhonePrices.java","tests":[{"id":1689729835286,"input":"1\n7\n375 750 723 662 647 656 619","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/PhonePrices.java","group":"local","local":true}
