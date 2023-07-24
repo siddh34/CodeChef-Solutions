@@ -1,0 +1,1 @@
+{"name":"Local: EndlessAppetizers","url":"/media/storage/CodeChef-Solutions/EndlessAppetizers.java","tests":[{"id":1690081381531,"input":"4\n7 5 30\n16 5 0\n15 9 120\n23 1 2130","output":"2\n4\n3\n94"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/EndlessAppetizers.java","group":"local","local":true}
