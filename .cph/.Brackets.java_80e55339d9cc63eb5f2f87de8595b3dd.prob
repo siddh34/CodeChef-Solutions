@@ -1,0 +1,1 @@
+{"name":"Local: Brackets","url":"/media/storage/CodeChef-Solutions/Brackets.java","tests":[{"id":1690707178919,"input":"1\n()((()()))","output":"((()))"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/Brackets.java","group":"local","local":true}

@@ -1,2737 +1,2744 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "ChefAndCardGame",
-            "request": "launch",
-            "mainClass": "ChefAndCardGame",
-            "projectName": "CodeChef-Solutions_1d880659"
-        },
-        {
-            "type": "java",
-            "name": "ChefAndSubsetAdditions",
-            "request": "launch",
-            "mainClass": "ChefAndSubsetAdditions",
-            "projectName": "CodeChef-Solutions_1d880659"
-        },
-        {
-            "type": "java",
-            "name": "LittleChefAndSums",
-            "request": "launch",
-            "mainClass": "LittleChefAndSums",
-            "projectName": "CodeChef-Solutions_1d880659"
-        },
-        {
-            "type": "java",
-            "name": "CheckAlgorithm",
-            "request": "launch",
-            "mainClass": "CheckAlgorithm",
-            "projectName": "CodeChef-Solutions_1d880659"
-        },
-        {
-            "type": "java",
-            "name": "RedAlert",
-            "request": "launch",
-            "mainClass": "RedAlert",
-            "projectName": "CodeChef-Solutions_1d880659"
-        },
-        {
-            "type": "java",
-            "name": "APFreeSequences",
-            "request": "launch",
-            "mainClass": "APFreeSequences",
-            "projectName": "CodeChef-Solutions_1d880659"
-        },
-        {
-            "type": "java",
-            "name": "Laddu",
-            "request": "launch",
-            "mainClass": "Laddu",
-            "projectName": "CodeChef-Solutions_1d880659"
-        },
-        {
-            "type": "java",
-            "name": "ABooks",
-            "request": "launch",
-            "mainClass": "ABooks",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "InsideTheStadium",
-            "request": "launch",
-            "mainClass": "InsideTheStadium",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "PowerMDivisibilityBy7",
-            "request": "launch",
-            "mainClass": "PowerMDivisibilityBy7",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "StudyingAlphabet",
-            "request": "launch",
-            "mainClass": "StudyingAlphabet",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AlternatingString",
-            "request": "launch",
-            "mainClass": "AlternatingString",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch AIAnalysingCode",
-            "request": "launch",
-            "mainClass": "AIAnalysingCode",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AOrB",
-            "request": "launch",
-            "mainClass": "AOrB",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ASaveWaterSaveLife",
-            "request": "launch",
-            "mainClass": "ASaveWaterSaveLife",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ATM",
-            "request": "launch",
-            "mainClass": "ATM",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ATMMachine",
-            "request": "launch",
-            "mainClass": "ATMMachine",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AdjacentSumParity",
-            "request": "launch",
-            "mainClass": "AdjacentSumParity",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AgeLimit",
-            "request": "launch",
-            "mainClass": "AgeLimit",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AirConditionerTemperature",
-            "request": "launch",
-            "mainClass": "AirConditionerTemperature",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AirHockey",
-            "request": "launch",
-            "mainClass": "AirHockey",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AirlineRestrictions",
-            "request": "launch",
-            "mainClass": "AirlineRestrictions",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AkashAndMissingClass",
-            "request": "launch",
-            "mainClass": "AkashAndMissingClass",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AliceAndMarks",
-            "request": "launch",
-            "mainClass": "AliceAndMarks",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AlternateAdditions",
-            "request": "launch",
-            "mainClass": "AlternateAdditions",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AppendOR",
-            "request": "launch",
-            "mainClass": "AppendOR",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ApplesAndOranges",
-            "request": "launch",
-            "mainClass": "ApplesAndOranges",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AttackOnKingdom",
-            "request": "launch",
-            "mainClass": "AttackOnKingdom",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AudibleRange",
-            "request": "launch",
-            "mainClass": "AudibleRange",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch AvoidSquares",
-            "request": "launch",
-            "mainClass": "AvoidSquares",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BackToCampus",
-            "request": "launch",
-            "mainClass": "BackToCampus",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BalancedReversals",
-            "request": "launch",
-            "mainClass": "BalancedReversals",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BathInWinters",
-            "request": "launch",
-            "mainClass": "BathInWinters",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BatteryHealth",
-            "request": "launch",
-            "mainClass": "BatteryHealth",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BatteryLow",
-            "request": "launch",
-            "mainClass": "BatteryLow",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BearAndCandies123",
-            "request": "launch",
-            "mainClass": "BearAndCandies123",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BestCoupon",
-            "request": "launch",
-            "mainClass": "BestCoupon",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Bi_lindrome",
-            "request": "launch",
-            "mainClass": "Bi_lindrome",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Bidding",
-            "request": "launch",
-            "mainClass": "Bidding",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BinaryBattles",
-            "request": "launch",
-            "mainClass": "BinaryBattles",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BinaryStringCost",
-            "request": "launch",
-            "mainClass": "BinaryStringCost",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BiryaniClasses",
-            "request": "launch",
-            "mainClass": "BiryaniClasses",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BlackCellsInAChessboard",
-            "request": "launch",
-            "mainClass": "BlackCellsInAChessboard",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Blackjack",
-            "request": "launch",
-            "mainClass": "Blackjack",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BodyMassIndex",
-            "request": "launch",
-            "mainClass": "BodyMassIndex",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BreakTheStick",
-            "request": "launch",
-            "mainClass": "BreakTheStick",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BucketAndWaterFlow",
-            "request": "launch",
-            "mainClass": "BucketAndWaterFlow",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BuildingRace",
-            "request": "launch",
-            "mainClass": "BuildingRace",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BullOrBear",
-            "request": "launch",
-            "mainClass": "BullOrBear",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Burgers",
-            "request": "launch",
-            "mainClass": "Burgers",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BuyLamps",
-            "request": "launch",
-            "mainClass": "BuyLamps",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch BuyingNewTablet",
-            "request": "launch",
-            "mainClass": "BuyingNewTablet",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CREDCoins",
-            "request": "launch",
-            "mainClass": "CREDCoins",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CanReach",
-            "request": "launch",
-            "mainClass": "CanReach",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CanYouEatIt",
-            "request": "launch",
-            "mainClass": "CanYouEatIt",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Candies",
-            "request": "launch",
-            "mainClass": "Candies",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CandyDistribution",
-            "request": "launch",
-            "mainClass": "CandyDistribution",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CandyStore",
-            "request": "launch",
-            "mainClass": "CandyStore",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CarChoice",
-            "request": "launch",
-            "mainClass": "CarChoice",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CarRange",
-            "request": "launch",
-            "mainClass": "CarRange",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CarTrip",
-            "request": "launch",
-            "mainClass": "CarTrip",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CardRemoval",
-            "request": "launch",
-            "mainClass": "CardRemoval",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CarsAndBikes",
-            "request": "launch",
-            "mainClass": "CarsAndBikes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChairsSumit",
-            "request": "launch",
-            "mainClass": "ChairsSumit",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CheAndPairingSlippers",
-            "request": "launch",
-            "mainClass": "CheAndPairingSlippers",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndBrainSpeed",
-            "request": "launch",
-            "mainClass": "ChefAndBrainSpeed",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndCandies",
-            "request": "launch",
-            "mainClass": "ChefAndCandies",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndChapters",
-            "request": "launch",
-            "mainClass": "ChefAndChapters",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndChocolates",
-            "request": "launch",
-            "mainClass": "ChefAndChocolates",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndChocolates498Rating",
-            "request": "launch",
-            "mainClass": "ChefAndChocolates498Rating",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndContest",
-            "request": "launch",
-            "mainClass": "ChefAndContest",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndCookOff",
-            "request": "launch",
-            "mainClass": "ChefAndCookOff",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndDolls",
-            "request": "launch",
-            "mainClass": "ChefAndDolls",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndGameWithSequence",
-            "request": "launch",
-            "mainClass": "ChefAndGameWithSequence",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndHisFruitStand",
-            "request": "launch",
-            "mainClass": "ChefAndHisFruitStand",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndHisStudents",
-            "request": "launch",
-            "mainClass": "ChefAndHisStudents",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndInstantNoodles",
-            "request": "launch",
-            "mainClass": "ChefAndInstantNoodles",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndLockoutDraws",
-            "request": "launch",
-            "mainClass": "ChefAndLockoutDraws",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndNextGen",
-            "request": "launch",
-            "mainClass": "ChefAndNextGen",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndOperators",
-            "request": "launch",
-            "mainClass": "ChefAndOperators",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndRaces",
-            "request": "launch",
-            "mainClass": "ChefAndRaces",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndRemissness",
-            "request": "launch",
-            "mainClass": "ChefAndRemissness",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndSnackDown",
-            "request": "launch",
-            "mainClass": "ChefAndSnackDown",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndSpells",
-            "request": "launch",
-            "mainClass": "ChefAndSpells",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndStockPrices",
-            "request": "launch",
-            "mainClass": "ChefAndStockPrices",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndSubarrays",
-            "request": "launch",
-            "mainClass": "ChefAndSubarrays",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndTableTennis",
-            "request": "launch",
-            "mainClass": "ChefAndTableTennis",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndTheHairSalon",
-            "request": "launch",
-            "mainClass": "ChefAndTheHairSalon",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndVacationTransportation",
-            "request": "launch",
-            "mainClass": "ChefAndVacationTransportation",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndWaterBottles",
-            "request": "launch",
-            "mainClass": "ChefAndWaterBottles",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefAndWireFrames",
-            "request": "launch",
-            "mainClass": "ChefAndWireFrames",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefDiet",
-            "request": "launch",
-            "mainClass": "ChefDiet",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefGivesParty",
-            "request": "launch",
-            "mainClass": "ChefGivesParty",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefInHisOffice",
-            "request": "launch",
-            "mainClass": "ChefInHisOffice",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefOnDate",
-            "request": "launch",
-            "mainClass": "ChefOnDate",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefOnIsland",
-            "request": "launch",
-            "mainClass": "ChefOnIsland",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefOnVacation",
-            "request": "launch",
-            "mainClass": "ChefOnVacation",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefPlaysLudo",
-            "request": "launch",
-            "mainClass": "ChefPlaysLudo",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CheflandTax",
-            "request": "launch",
-            "mainClass": "CheflandTax",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CheflandVisa",
-            "request": "launch",
-            "mainClass": "CheflandVisa",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChefsTodo",
-            "request": "launch",
-            "mainClass": "ChefsTodo",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChessFormat",
-            "request": "launch",
-            "mainClass": "ChessFormat",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChessRatings",
-            "request": "launch",
-            "mainClass": "ChessRatings",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChessTime",
-            "request": "launch",
-            "mainClass": "ChessTime",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChessboardDistance",
-            "request": "launch",
-            "mainClass": "ChessboardDistance",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ChocolateMonger",
-            "request": "launch",
-            "mainClass": "ChocolateMonger",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CielAndReceipt",
-            "request": "launch",
-            "mainClass": "CielAndReceipt",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CircularTrack",
-            "request": "launch",
-            "mainClass": "CircularTrack",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CodechefAirlines",
-            "request": "launch",
-            "mainClass": "CodechefAirlines",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Coldplay",
-            "request": "launch",
-            "mainClass": "Coldplay",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ColorTheCube",
-            "request": "launch",
-            "mainClass": "ColorTheCube",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CompleteTheCredits",
-            "request": "launch",
-            "mainClass": "CompleteTheCredits",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CompressTheVideo",
-            "request": "launch",
-            "mainClass": "CompressTheVideo",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ConstructN",
-            "request": "launch",
-            "mainClass": "ConstructN",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CostOfGroceries",
-            "request": "launch",
-            "mainClass": "CostOfGroceries",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CountTheHolidays",
-            "request": "launch",
-            "mainClass": "CountTheHolidays",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CountTheNotebooks",
-            "request": "launch",
-            "mainClass": "CountTheNotebooks",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CountingPrettyNumbers",
-            "request": "launch",
-            "mainClass": "CountingPrettyNumbers",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CountingWords",
-            "request": "launch",
-            "mainClass": "CountingWords",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CourseRegistration",
-            "request": "launch",
-            "mainClass": "CourseRegistration",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CreditScore",
-            "request": "launch",
-            "mainClass": "CreditScore",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CricketRanking",
-            "request": "launch",
-            "mainClass": "CricketRanking",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch CuttingRecipes",
-            "request": "launch",
-            "mainClass": "CuttingRecipes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DecrementORIncrement",
-            "request": "launch",
-            "mainClass": "DecrementORIncrement",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DefeatTheMonster1",
-            "request": "launch",
-            "mainClass": "DefeatTheMonster1",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DegreeOfPolynomial",
-            "request": "launch",
-            "mainClass": "DegreeOfPolynomial",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DetermineTheScore",
-            "request": "launch",
-            "mainClass": "DetermineTheScore",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DevendraAndWaterSports",
-            "request": "launch",
-            "mainClass": "DevendraAndWaterSports",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DevuAndFriendshipTesting",
-            "request": "launch",
-            "mainClass": "DevuAndFriendshipTesting",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DiffColors",
-            "request": "launch",
-            "mainClass": "DiffColors",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Discount",
-            "request": "launch",
-            "mainClass": "Discount",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DiscusThrow",
-            "request": "launch",
-            "mainClass": "DiscusThrow",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DistinctPairSums",
-            "request": "launch",
-            "mainClass": "DistinctPairSums",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DivisibleBy3",
-            "request": "launch",
-            "mainClass": "DivisibleBy3",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DominantArmy",
-            "request": "launch",
-            "mainClass": "DominantArmy",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch DrunkAlcoholic",
-            "request": "launch",
-            "mainClass": "DrunkAlcoholic",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EasyPronunciation",
-            "request": "launch",
-            "mainClass": "EasyPronunciation",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EconomicsClass",
-            "request": "launch",
-            "mainClass": "EconomicsClass",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ElectionsInChefland",
-            "request": "launch",
-            "mainClass": "ElectionsInChefland",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EmailReminders",
-            "request": "launch",
-            "mainClass": "EmailReminders",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EmotionalProximity",
-            "request": "launch",
-            "mainClass": "EmotionalProximity",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EncodingMessage",
-            "request": "launch",
-            "mainClass": "EncodingMessage",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EndSorted",
-            "request": "launch",
-            "mainClass": "EndSorted",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EnoughSpace",
-            "request": "launch",
-            "mainClass": "EnoughSpace",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EqualDistribution",
-            "request": "launch",
-            "mainClass": "EqualDistribution",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EqualIntegers",
-            "request": "launch",
-            "mainClass": "EqualIntegers",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EqualizingNumbers",
-            "request": "launch",
-            "mainClass": "EqualizingNumbers",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EvenSplits",
-            "request": "launch",
-            "mainClass": "EvenSplits",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EventualReduction",
-            "request": "launch",
-            "mainClass": "EventualReduction",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ExpenseList",
-            "request": "launch",
-            "mainClass": "ExpenseList",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ExpertSetter",
-            "request": "launch",
-            "mainClass": "ExpertSetter",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ExpiringBread",
-            "request": "launch",
-            "mainClass": "ExpiringBread",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch EzioAndApple",
-            "request": "launch",
-            "mainClass": "EzioAndApple",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Factorial",
-            "request": "launch",
-            "mainClass": "Factorial",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FarAway",
-            "request": "launch",
-            "mainClass": "FarAway",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FarFromOrigin",
-            "request": "launch",
-            "mainClass": "FarFromOrigin",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FarmerAndHisPlot",
-            "request": "launch",
-            "mainClass": "FarmerAndHisPlot",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Fever",
-            "request": "launch",
-            "mainClass": "Fever",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FillCandiesDifficulty",
-            "request": "launch",
-            "mainClass": "FillCandiesDifficulty",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FillTheGrid",
-            "request": "launch",
-            "mainClass": "FillTheGrid",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FilltheBucket",
-            "request": "launch",
-            "mainClass": "FilltheBucket",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FinalPopulation",
-            "request": "launch",
-            "mainClass": "FinalPopulation",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FindTheDirection",
-            "request": "launch",
-            "mainClass": "FindTheDirection",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FindingShoes",
-            "request": "launch",
-            "mainClass": "FindingShoes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FlipTheCards",
-            "request": "launch",
-            "mainClass": "FlipTheCards",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FootballCup",
-            "request": "launch",
-            "mainClass": "FootballCup",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch FromHeavenToEarth",
-            "request": "launch",
-            "mainClass": "FromHeavenToEarth",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GCDAndLCM",
-            "request": "launch",
-            "mainClass": "GCDAndLCM",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GameBetweenFriends",
-            "request": "launch",
-            "mainClass": "GameBetweenFriends",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Genes",
-            "request": "launch",
-            "mainClass": "Genes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GetLowestFree",
-            "request": "launch",
-            "mainClass": "GetLowestFree",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GetSubscription",
-            "request": "launch",
-            "mainClass": "GetSubscription",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GiftShopAndCoupon",
-            "request": "launch",
-            "mainClass": "GiftShopAndCoupon",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GoldMining",
-            "request": "launch",
-            "mainClass": "GoldMining",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GoodInvestmentOrNot",
-            "request": "launch",
-            "mainClass": "GoodInvestmentOrNot",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GoodProgram",
-            "request": "launch",
-            "mainClass": "GoodProgram",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GoodQualityBulbs",
-            "request": "launch",
-            "mainClass": "GoodQualityBulbs",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GoodWeather",
-            "request": "launch",
-            "mainClass": "GoodWeather",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GradeTheSteel",
-            "request": "launch",
-            "mainClass": "GradeTheSteel",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GreaterAverage",
-            "request": "launch",
-            "mainClass": "GreaterAverage",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GrossSalary",
-            "request": "launch",
-            "mainClass": "GrossSalary",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GroupAssignment",
-            "request": "launch",
-            "mainClass": "GroupAssignment",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch GuessTheBottomFace",
-            "request": "launch",
-            "mainClass": "GuessTheBottomFace",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HOWMANYDIGITSDOIHAVE",
-            "request": "launch",
-            "mainClass": "HOWMANYDIGITSDOIHAVE",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Hackerman",
-            "request": "launch",
-            "mainClass": "Hackerman",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HappyString",
-            "request": "launch",
-            "mainClass": "HappyString",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HardestProblemBet",
-            "request": "launch",
-            "mainClass": "HardestProblemBet",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HeightOfRationals",
-            "request": "launch",
-            "mainClass": "HeightOfRationals",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HelpingChef",
-            "request": "launch",
-            "mainClass": "HelpingChef",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HiddenNumbers",
-            "request": "launch",
-            "mainClass": "HiddenNumbers",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HoopJump",
-            "request": "launch",
-            "mainClass": "HoopJump",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HowManyUnattemptedProblem",
-            "request": "launch",
-            "mainClass": "HowManyUnattemptedProblem",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch HowMuchScholarship",
-            "request": "launch",
-            "mainClass": "HowMuchScholarship",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ICPCBalloons",
-            "request": "launch",
-            "mainClass": "ICPCBalloons",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch IQIncrease",
-            "request": "launch",
-            "mainClass": "IQIncrease",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ImportantPagesOnCodeChef",
-            "request": "launch",
-            "mainClass": "ImportantPagesOnCodeChef",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Indivisible",
-            "request": "launch",
-            "mainClass": "Indivisible",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Instagram",
-            "request": "launch",
-            "mainClass": "Instagram",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Insurance",
-            "request": "launch",
-            "mainClass": "Insurance",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch IntegersThatSumToSameValue",
-            "request": "launch",
-            "mainClass": "IntegersThatSumToSameValue",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch InteriorDesign",
-            "request": "launch",
-            "mainClass": "InteriorDesign",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch IsTheScoreConsistent",
-            "request": "launch",
-            "mainClass": "IsTheScoreConsistent",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch IsitaVOWELorCONSONANT",
-            "request": "launch",
-            "mainClass": "IsitaVOWELorCONSONANT",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ItIsMyServe",
-            "request": "launch",
-            "mainClass": "ItIsMyServe",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch JanmanshAndAssignments",
-            "request": "launch",
-            "mainClass": "JanmanshAndAssignments",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch JanmanshAndCoins",
-            "request": "launch",
-            "mainClass": "JanmanshAndCoins",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch JanmanshAndGames",
-            "request": "launch",
-            "mainClass": "JanmanshAndGames",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch JengaNight",
-            "request": "launch",
-            "mainClass": "JengaNight",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch JoiningDate",
-            "request": "launch",
-            "mainClass": "JoiningDate",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch KitchenTimetable",
-            "request": "launch",
-            "mainClass": "KitchenTimetable",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch KitchenTimings",
-            "request": "launch",
-            "mainClass": "KitchenTimings",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch LazyChef",
-            "request": "launch",
-            "mainClass": "LazyChef",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch LazySalesman",
-            "request": "launch",
-            "mainClass": "LazySalesman",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch LifeTheUniverseAndEverything",
-            "request": "launch",
-            "mainClass": "LifeTheUniverseAndEverything",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch LuckyFour",
-            "request": "launch",
-            "mainClass": "LuckyFour",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch LuckyNumber",
-            "request": "launch",
-            "mainClass": "LuckyNumber",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch LuckyNumbers",
-            "request": "launch",
-            "mainClass": "LuckyNumbers",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Lunchtime",
-            "request": "launch",
-            "mainClass": "Lunchtime",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch M400Race",
-            "request": "launch",
-            "mainClass": "M400Race",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MATH1Enrolment",
-            "request": "launch",
-            "mainClass": "MATH1Enrolment",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Mahasena",
-            "request": "launch",
-            "mainClass": "Mahasena",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MakeAAndBEqual",
-            "request": "launch",
-            "mainClass": "MakeAAndBEqual",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MakeAP",
-            "request": "launch",
-            "mainClass": "MakeAP",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MakeAllEqualUsingPairs",
-            "request": "launch",
-            "mainClass": "MakeAllEqualUsingPairs",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ManaPoints",
-            "request": "launch",
-            "mainClass": "ManaPoints",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Marathon",
-            "request": "launch",
-            "mainClass": "Marathon",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Mario",
-            "request": "launch",
-            "mainClass": "Mario",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MarioAndBrokenString",
-            "request": "launch",
-            "mainClass": "MarioAndBrokenString",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MarioAndBullet",
-            "request": "launch",
-            "mainClass": "MarioAndBullet",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaxMinusMin",
-            "request": "launch",
-            "mainClass": "MaxMinusMin",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaximiseTheSubsequenceSum",
-            "request": "launch",
-            "mainClass": "MaximiseTheSubsequenceSum",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaximiseTheTastiness",
-            "request": "launch",
-            "mainClass": "MaximiseTheTastiness",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaximizeTheMin",
-            "request": "launch",
-            "mainClass": "MaximizeTheMin",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaximumLengthEvenSubarray",
-            "request": "launch",
-            "mainClass": "MaximumLengthEvenSubarray",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaximumProduction",
-            "request": "launch",
-            "mainClass": "MaximumProduction",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaximumSubmissions",
-            "request": "launch",
-            "mainClass": "MaximumSubmissions",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MaximumTrio",
-            "request": "launch",
-            "mainClass": "MaximumTrio",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MiamiGP",
-            "request": "launch",
-            "mainClass": "MiamiGP",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinimumAttendanceRequirement",
-            "request": "launch",
-            "mainClass": "MinimumAttendanceRequirement",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinimumCarsRequired",
-            "request": "launch",
-            "mainClass": "MinimumCarsRequired",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinimumCoins",
-            "request": "launch",
-            "mainClass": "MinimumCoins",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinimumNumberOfCoins",
-            "request": "launch",
-            "mainClass": "MinimumNumberOfCoins",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinimumNumberOfFlips",
-            "request": "launch",
-            "mainClass": "MinimumNumberOfFlips",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinimumNumberOfOnes",
-            "request": "launch",
-            "mainClass": "MinimumNumberOfOnes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinimumPizzas",
-            "request": "launch",
-            "mainClass": "MinimumPizzas",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MonopolyInChefland",
-            "request": "launch",
-            "mainClass": "MonopolyInChefland",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MonthlyBudget",
-            "request": "launch",
-            "mainClass": "MonthlyBudget",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Motivation",
-            "request": "launch",
-            "mainClass": "Motivation",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MultivitaminTablets",
-            "request": "launch",
-            "mainClass": "MultivitaminTablets",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MutatedMinions",
-            "request": "launch",
-            "mainClass": "MutatedMinions",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch MyVery1stContest",
-            "request": "launch",
-            "mainClass": "MyVery1stContest",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NButtons1Bulb",
-            "request": "launch",
-            "mainClass": "NButtons1Bulb",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NaiveChef",
-            "request": "launch",
-            "mainClass": "NaiveChef",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NegativeProduct",
-            "request": "launch",
-            "mainClass": "NegativeProduct",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Netflix",
-            "request": "launch",
-            "mainClass": "Netflix",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NoTimeToWait",
-            "request": "launch",
-            "mainClass": "NoTimeToWait",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NonNegativeProduct",
-            "request": "launch",
-            "mainClass": "NonNegativeProduct",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NumberMirror",
-            "request": "launch",
-            "mainClass": "NumberMirror",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NumberOfCredits",
-            "request": "launch",
-            "mainClass": "NumberOfCredits",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch NumberOfRectangles",
-            "request": "launch",
-            "mainClass": "NumberOfRectangles",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch OddPairs",
-            "request": "launch",
-            "mainClass": "OddPairs",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch OddSumPair",
-            "request": "launch",
-            "mainClass": "OddSumPair",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch OddsAndEvens",
-            "request": "launch",
-            "mainClass": "OddsAndEvens",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch OlympicsRanking",
-            "request": "launch",
-            "mainClass": "OlympicsRanking",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PackagingCupcakes",
-            "request": "launch",
-            "mainClass": "PackagingCupcakes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PaperCutting",
-            "request": "launch",
-            "mainClass": "PaperCutting",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Parity",
-            "request": "launch",
-            "mainClass": "Parity",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PassOrFail",
-            "request": "launch",
-            "mainClass": "PassOrFail",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PassesForFair",
-            "request": "launch",
-            "mainClass": "PassesForFair",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PeacefulParty",
-            "request": "launch",
-            "mainClass": "PeacefulParty",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PenaltyShots",
-            "request": "launch",
-            "mainClass": "PenaltyShots",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PerfectTrio",
-            "request": "launch",
-            "mainClass": "PerfectTrio",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PetStore",
-            "request": "launch",
-            "mainClass": "PetStore",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PixelDamage",
-            "request": "launch",
-            "mainClass": "PixelDamage",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PlayingWithMatches",
-            "request": "launch",
-            "mainClass": "PlayingWithMatches",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Playlist",
-            "request": "launch",
-            "mainClass": "Playlist",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PodiumFinish",
-            "request": "launch",
-            "mainClass": "PodiumFinish",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PointsAndLines",
-            "request": "launch",
-            "mainClass": "PointsAndLines",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PoliceAndThief",
-            "request": "launch",
-            "mainClass": "PoliceAndThief",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PossibleVictory",
-            "request": "launch",
-            "mainClass": "PossibleVictory",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PrimalityTest",
-            "request": "launch",
-            "mainClass": "PrimalityTest",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PrimeReversal",
-            "request": "launch",
-            "mainClass": "PrimeReversal",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ProblemCategory",
-            "request": "launch",
-            "mainClass": "ProblemCategory",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ProfitIncrement",
-            "request": "launch",
-            "mainClass": "ProfitIncrement",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ProgramYourOwnCALCULATOR",
-            "request": "launch",
-            "mainClass": "ProgramYourOwnCALCULATOR",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ProgrammingLanguages",
-            "request": "launch",
-            "mainClass": "ProgrammingLanguages",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch PuppyAndSum",
-            "request": "launch",
-            "mainClass": "PuppyAndSum",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch QualifyTheRound",
-            "request": "launch",
-            "mainClass": "QualifyTheRound",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RCBAndPlayoffs",
-            "request": "launch",
-            "mainClass": "RCBAndPlayoffs",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RainInChefland",
-            "request": "launch",
-            "mainClass": "RainInChefland",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RanklistPages",
-            "request": "launch",
-            "mainClass": "RanklistPages",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RatingProblem",
-            "request": "launch",
-            "mainClass": "RatingProblem",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ReachFast",
-            "request": "launch",
-            "mainClass": "ReachFast",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ReachTheGoal",
-            "request": "launch",
-            "mainClass": "ReachTheGoal",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ReadPages",
-            "request": "launch",
-            "mainClass": "ReadPages",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RearrangingToGetMultipleOf5",
-            "request": "launch",
-            "mainClass": "RearrangingToGetMultipleOf5",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RecentContestProblems",
-            "request": "launch",
-            "mainClass": "RecentContestProblems",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RedLightGreenLight",
-            "request": "launch",
-            "mainClass": "RedLightGreenLight",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RedistributingChocolates",
-            "request": "launch",
-            "mainClass": "RedistributingChocolates",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Relativity",
-            "request": "launch",
-            "mainClass": "Relativity",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch RichieRich",
-            "request": "launch",
-            "mainClass": "RichieRich",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SastaSharkTank",
-            "request": "launch",
-            "mainClass": "SastaSharkTank",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SavingTaxes",
-            "request": "launch",
-            "mainClass": "SavingTaxes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ScaleneTriangle",
-            "request": "launch",
-            "mainClass": "ScaleneTriangle",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SecondLargest",
-            "request": "launch",
-            "mainClass": "SecondLargest",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SecondMax",
-            "request": "launch",
-            "mainClass": "SecondMax",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SelfDefenceTraining",
-            "request": "launch",
-            "mainClass": "SelfDefenceTraining",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ShoeFit",
-            "request": "launch",
-            "mainClass": "ShoeFit",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ShoppingChange",
-            "request": "launch",
-            "mainClass": "ShoppingChange",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SimpleStatistics",
-            "request": "launch",
-            "mainClass": "SimpleStatistics",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SixFriends",
-            "request": "launch",
-            "mainClass": "SixFriends",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SleepDeprivation",
-            "request": "launch",
-            "mainClass": "SleepDeprivation",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SlowSolution",
-            "request": "launch",
-            "mainClass": "SlowSolution",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SmallFactorial",
-            "request": "launch",
-            "mainClass": "SmallFactorial",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SmallestPossibleWholeNumber",
-            "request": "launch",
-            "mainClass": "SmallestPossibleWholeNumber",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SnakeProcession",
-            "request": "launch",
-            "mainClass": "SnakeProcession",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Snapchat",
-            "request": "launch",
-            "mainClass": "Snapchat",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Solubility",
-            "request": "launch",
-            "mainClass": "Solubility",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Speciality",
-            "request": "launch",
-            "mainClass": "Speciality",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SpeedLimitTest",
-            "request": "launch",
-            "mainClass": "SpeedLimitTest",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SpiceLevel",
-            "request": "launch",
-            "mainClass": "SpiceLevel",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Squats",
-            "request": "launch",
-            "mainClass": "Squats",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch StringGame",
-            "request": "launch",
-            "mainClass": "StringGame",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Subscriptions",
-            "request": "launch",
-            "mainClass": "Subscriptions",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SugarcaneJuiceBusiness",
-            "request": "launch",
-            "mainClass": "SugarcaneJuiceBusiness",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SumIt",
-            "request": "launch",
-            "mainClass": "SumIt",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SumOrDifference",
-            "request": "launch",
-            "mainClass": "SumOrDifference",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch SummerHeat",
-            "request": "launch",
-            "mainClass": "SummerHeat",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TaxiCost",
-            "request": "launch",
-            "mainClass": "TaxiCost",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Tekken",
-            "request": "launch",
-            "mainClass": "Tekken",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TestAverages",
-            "request": "launch",
-            "mainClass": "TestAverages",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TestScore",
-            "request": "launch",
-            "mainClass": "TestScore",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ThatIsMyScore",
-            "request": "launch",
-            "mainClass": "ThatIsMyScore",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheBeginingEraOfCyberverse",
-            "request": "launch",
-            "mainClass": "TheBeginingEraOfCyberverse",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheBlockGame",
-            "request": "launch",
-            "mainClass": "TheBlockGame",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheCheaperCab",
-            "request": "launch",
-            "mainClass": "TheCheaperCab",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheCoolerDilemma1",
-            "request": "launch",
-            "mainClass": "TheCoolerDilemma1",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheCoolerDilemma2",
-            "request": "launch",
-            "mainClass": "TheCoolerDilemma2",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheLastLevels",
-            "request": "launch",
-            "mainClass": "TheLastLevels",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheLeadGame",
-            "request": "launch",
-            "mainClass": "TheLeadGame",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheOldSaintAndThreeQuestions",
-            "request": "launch",
-            "mainClass": "TheOldSaintAndThreeQuestions",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ThePreparations",
-            "request": "launch",
-            "mainClass": "ThePreparations",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheRatingDilemma",
-            "request": "launch",
-            "mainClass": "TheRatingDilemma",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheThreeTopics",
-            "request": "launch",
-            "mainClass": "TheThreeTopics",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TheTwoDishes",
-            "request": "launch",
-            "mainClass": "TheTwoDishes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ThreeNumberExpression",
-            "request": "launch",
-            "mainClass": "ThreeNumberExpression",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TicketFine",
-            "request": "launch",
-            "mainClass": "TicketFine",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TimeComplexity",
-            "request": "launch",
-            "mainClass": "TimeComplexity",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Timely",
-            "request": "launch",
-            "mainClass": "Timely",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TomAndJerry1",
-            "request": "launch",
-            "mainClass": "TomAndJerry1",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TomAndJerryChase",
-            "request": "launch",
-            "mainClass": "TomAndJerryChase",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TooManyFloors",
-            "request": "launch",
-            "mainClass": "TooManyFloors",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TooManyItems",
-            "request": "launch",
-            "mainClass": "TooManyItems",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TotalExpenses",
-            "request": "launch",
-            "mainClass": "TotalExpenses",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TotalPrizeMoney",
-            "request": "launch",
-            "mainClass": "TotalPrizeMoney",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TourOfKing",
-            "request": "launch",
-            "mainClass": "TourOfKing",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TransformTheExpression",
-            "request": "launch",
-            "mainClass": "TransformTheExpression",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TrueAndFalsePaper",
-            "request": "launch",
-            "mainClass": "TrueAndFalsePaper",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TurnIt",
-            "request": "launch",
-            "mainClass": "TurnIt",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TwoDishes",
-            "request": "launch",
-            "mainClass": "TwoDishes",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TwoRanges",
-            "request": "launch",
-            "mainClass": "TwoRanges",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TwoRooks",
-            "request": "launch",
-            "mainClass": "TwoRooks",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TwoVsTen",
-            "request": "launch",
-            "mainClass": "TwoVsTen",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch TyreProblem",
-            "request": "launch",
-            "mainClass": "TyreProblem",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch UncleJohny",
-            "request": "launch",
-            "mainClass": "UncleJohny",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch UtkarshAndPlacementTests",
-            "request": "launch",
-            "mainClass": "UtkarshAndPlacementTests",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch VaccineDates",
-            "request": "launch",
-            "mainClass": "VaccineDates",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ValentineIsComing",
-            "request": "launch",
-            "mainClass": "ValentineIsComing",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ValidTriangles",
-            "request": "launch",
-            "mainClass": "ValidTriangles",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch VolumnControl",
-            "request": "launch",
-            "mainClass": "VolumnControl",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WATestCases",
-            "request": "launch",
-            "mainClass": "WATestCases",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WaitingTime",
-            "request": "launch",
-            "mainClass": "WaitingTime",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WatchingMoviesAt2x",
-            "request": "launch",
-            "mainClass": "WatchingMoviesAt2x",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WaterMixing",
-            "request": "launch",
-            "mainClass": "WaterMixing",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WaterRequirement",
-            "request": "launch",
-            "mainClass": "WaterRequirement",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WatsonAsksDoesPermutationExist",
-            "request": "launch",
-            "mainClass": "WatsonAsksDoesPermutationExist",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WeightBalance",
-            "request": "launch",
-            "mainClass": "WeightBalance",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Weights",
-            "request": "launch",
-            "mainClass": "Weights",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WhichMixture",
-            "request": "launch",
-            "mainClass": "WhichMixture",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WhoIsTaller",
-            "request": "launch",
-            "mainClass": "WhoIsTaller",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch Wordle",
-            "request": "launch",
-            "mainClass": "Wordle",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch WorldChessChampionship",
-            "request": "launch",
-            "mainClass": "WorldChessChampionship",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch XJumps",
-            "request": "launch",
-            "mainClass": "XJumps",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ZeroOnesEqualOneZeros",
-            "request": "launch",
-            "mainClass": "ZeroOnesEqualOneZeros",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch ZeroString",
-            "request": "launch",
-            "mainClass": "ZeroString",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch fitness",
-            "request": "launch",
-            "mainClass": "fitness",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch myTestPresonal",
-            "request": "launch",
-            "mainClass": "myTestPresonal",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch practiceMakesUsPerfect",
-            "request": "launch",
-            "mainClass": "practiceMakesUsPerfect",
-            "projectName": "CodeChef_ee09d8ec"
-        },
-        {
-            "type": "java",
-            "name": "Launch rouggh",
-            "request": "launch",
-            "mainClass": "rouggh",
-            "projectName": "CodeChef_ee09d8ec"
-        }
-    ]
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "ClosingTheTweets",
+			"request": "launch",
+			"mainClass": "ClosingTheTweets",
+			"projectName": "CodeChef-Solutions_11de156e"
+		},
+		{
+			"type": "java",
+			"name": "ChefAndCardGame",
+			"request": "launch",
+			"mainClass": "ChefAndCardGame",
+			"projectName": "CodeChef-Solutions_1d880659"
+		},
+		{
+			"type": "java",
+			"name": "ChefAndSubsetAdditions",
+			"request": "launch",
+			"mainClass": "ChefAndSubsetAdditions",
+			"projectName": "CodeChef-Solutions_1d880659"
+		},
+		{
+			"type": "java",
+			"name": "LittleChefAndSums",
+			"request": "launch",
+			"mainClass": "LittleChefAndSums",
+			"projectName": "CodeChef-Solutions_1d880659"
+		},
+		{
+			"type": "java",
+			"name": "CheckAlgorithm",
+			"request": "launch",
+			"mainClass": "CheckAlgorithm",
+			"projectName": "CodeChef-Solutions_1d880659"
+		},
+		{
+			"type": "java",
+			"name": "RedAlert",
+			"request": "launch",
+			"mainClass": "RedAlert",
+			"projectName": "CodeChef-Solutions_1d880659"
+		},
+		{
+			"type": "java",
+			"name": "APFreeSequences",
+			"request": "launch",
+			"mainClass": "APFreeSequences",
+			"projectName": "CodeChef-Solutions_1d880659"
+		},
+		{
+			"type": "java",
+			"name": "Laddu",
+			"request": "launch",
+			"mainClass": "Laddu",
+			"projectName": "CodeChef-Solutions_1d880659"
+		},
+		{
+			"type": "java",
+			"name": "ABooks",
+			"request": "launch",
+			"mainClass": "ABooks",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "InsideTheStadium",
+			"request": "launch",
+			"mainClass": "InsideTheStadium",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "PowerMDivisibilityBy7",
+			"request": "launch",
+			"mainClass": "PowerMDivisibilityBy7",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "StudyingAlphabet",
+			"request": "launch",
+			"mainClass": "StudyingAlphabet",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AlternatingString",
+			"request": "launch",
+			"mainClass": "AlternatingString",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Launch AIAnalysingCode",
+			"request": "launch",
+			"mainClass": "AIAnalysingCode",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AOrB",
+			"request": "launch",
+			"mainClass": "AOrB",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ASaveWaterSaveLife",
+			"request": "launch",
+			"mainClass": "ASaveWaterSaveLife",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ATM",
+			"request": "launch",
+			"mainClass": "ATM",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ATMMachine",
+			"request": "launch",
+			"mainClass": "ATMMachine",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AdjacentSumParity",
+			"request": "launch",
+			"mainClass": "AdjacentSumParity",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AgeLimit",
+			"request": "launch",
+			"mainClass": "AgeLimit",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AirConditionerTemperature",
+			"request": "launch",
+			"mainClass": "AirConditionerTemperature",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AirHockey",
+			"request": "launch",
+			"mainClass": "AirHockey",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AirlineRestrictions",
+			"request": "launch",
+			"mainClass": "AirlineRestrictions",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AkashAndMissingClass",
+			"request": "launch",
+			"mainClass": "AkashAndMissingClass",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AliceAndMarks",
+			"request": "launch",
+			"mainClass": "AliceAndMarks",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AlternateAdditions",
+			"request": "launch",
+			"mainClass": "AlternateAdditions",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AppendOR",
+			"request": "launch",
+			"mainClass": "AppendOR",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ApplesAndOranges",
+			"request": "launch",
+			"mainClass": "ApplesAndOranges",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AttackOnKingdom",
+			"request": "launch",
+			"mainClass": "AttackOnKingdom",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AudibleRange",
+			"request": "launch",
+			"mainClass": "AudibleRange",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch AvoidSquares",
+			"request": "launch",
+			"mainClass": "AvoidSquares",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BackToCampus",
+			"request": "launch",
+			"mainClass": "BackToCampus",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BalancedReversals",
+			"request": "launch",
+			"mainClass": "BalancedReversals",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BathInWinters",
+			"request": "launch",
+			"mainClass": "BathInWinters",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BatteryHealth",
+			"request": "launch",
+			"mainClass": "BatteryHealth",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BatteryLow",
+			"request": "launch",
+			"mainClass": "BatteryLow",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BearAndCandies123",
+			"request": "launch",
+			"mainClass": "BearAndCandies123",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BestCoupon",
+			"request": "launch",
+			"mainClass": "BestCoupon",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Bi_lindrome",
+			"request": "launch",
+			"mainClass": "Bi_lindrome",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Bidding",
+			"request": "launch",
+			"mainClass": "Bidding",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BinaryBattles",
+			"request": "launch",
+			"mainClass": "BinaryBattles",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BinaryStringCost",
+			"request": "launch",
+			"mainClass": "BinaryStringCost",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BiryaniClasses",
+			"request": "launch",
+			"mainClass": "BiryaniClasses",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BlackCellsInAChessboard",
+			"request": "launch",
+			"mainClass": "BlackCellsInAChessboard",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Blackjack",
+			"request": "launch",
+			"mainClass": "Blackjack",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BodyMassIndex",
+			"request": "launch",
+			"mainClass": "BodyMassIndex",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BreakTheStick",
+			"request": "launch",
+			"mainClass": "BreakTheStick",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BucketAndWaterFlow",
+			"request": "launch",
+			"mainClass": "BucketAndWaterFlow",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BuildingRace",
+			"request": "launch",
+			"mainClass": "BuildingRace",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BullOrBear",
+			"request": "launch",
+			"mainClass": "BullOrBear",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Burgers",
+			"request": "launch",
+			"mainClass": "Burgers",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BuyLamps",
+			"request": "launch",
+			"mainClass": "BuyLamps",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch BuyingNewTablet",
+			"request": "launch",
+			"mainClass": "BuyingNewTablet",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CREDCoins",
+			"request": "launch",
+			"mainClass": "CREDCoins",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CanReach",
+			"request": "launch",
+			"mainClass": "CanReach",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CanYouEatIt",
+			"request": "launch",
+			"mainClass": "CanYouEatIt",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Candies",
+			"request": "launch",
+			"mainClass": "Candies",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CandyDistribution",
+			"request": "launch",
+			"mainClass": "CandyDistribution",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CandyStore",
+			"request": "launch",
+			"mainClass": "CandyStore",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CarChoice",
+			"request": "launch",
+			"mainClass": "CarChoice",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CarRange",
+			"request": "launch",
+			"mainClass": "CarRange",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CarTrip",
+			"request": "launch",
+			"mainClass": "CarTrip",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CardRemoval",
+			"request": "launch",
+			"mainClass": "CardRemoval",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CarsAndBikes",
+			"request": "launch",
+			"mainClass": "CarsAndBikes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChairsSumit",
+			"request": "launch",
+			"mainClass": "ChairsSumit",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CheAndPairingSlippers",
+			"request": "launch",
+			"mainClass": "CheAndPairingSlippers",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndBrainSpeed",
+			"request": "launch",
+			"mainClass": "ChefAndBrainSpeed",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndCandies",
+			"request": "launch",
+			"mainClass": "ChefAndCandies",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndChapters",
+			"request": "launch",
+			"mainClass": "ChefAndChapters",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndChocolates",
+			"request": "launch",
+			"mainClass": "ChefAndChocolates",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndChocolates498Rating",
+			"request": "launch",
+			"mainClass": "ChefAndChocolates498Rating",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndContest",
+			"request": "launch",
+			"mainClass": "ChefAndContest",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndCookOff",
+			"request": "launch",
+			"mainClass": "ChefAndCookOff",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndDolls",
+			"request": "launch",
+			"mainClass": "ChefAndDolls",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndGameWithSequence",
+			"request": "launch",
+			"mainClass": "ChefAndGameWithSequence",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndHisFruitStand",
+			"request": "launch",
+			"mainClass": "ChefAndHisFruitStand",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndHisStudents",
+			"request": "launch",
+			"mainClass": "ChefAndHisStudents",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndInstantNoodles",
+			"request": "launch",
+			"mainClass": "ChefAndInstantNoodles",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndLockoutDraws",
+			"request": "launch",
+			"mainClass": "ChefAndLockoutDraws",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndNextGen",
+			"request": "launch",
+			"mainClass": "ChefAndNextGen",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndOperators",
+			"request": "launch",
+			"mainClass": "ChefAndOperators",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndRaces",
+			"request": "launch",
+			"mainClass": "ChefAndRaces",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndRemissness",
+			"request": "launch",
+			"mainClass": "ChefAndRemissness",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndSnackDown",
+			"request": "launch",
+			"mainClass": "ChefAndSnackDown",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndSpells",
+			"request": "launch",
+			"mainClass": "ChefAndSpells",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndStockPrices",
+			"request": "launch",
+			"mainClass": "ChefAndStockPrices",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndSubarrays",
+			"request": "launch",
+			"mainClass": "ChefAndSubarrays",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndTableTennis",
+			"request": "launch",
+			"mainClass": "ChefAndTableTennis",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndTheHairSalon",
+			"request": "launch",
+			"mainClass": "ChefAndTheHairSalon",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndVacationTransportation",
+			"request": "launch",
+			"mainClass": "ChefAndVacationTransportation",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndWaterBottles",
+			"request": "launch",
+			"mainClass": "ChefAndWaterBottles",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefAndWireFrames",
+			"request": "launch",
+			"mainClass": "ChefAndWireFrames",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefDiet",
+			"request": "launch",
+			"mainClass": "ChefDiet",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefGivesParty",
+			"request": "launch",
+			"mainClass": "ChefGivesParty",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefInHisOffice",
+			"request": "launch",
+			"mainClass": "ChefInHisOffice",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefOnDate",
+			"request": "launch",
+			"mainClass": "ChefOnDate",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefOnIsland",
+			"request": "launch",
+			"mainClass": "ChefOnIsland",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefOnVacation",
+			"request": "launch",
+			"mainClass": "ChefOnVacation",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefPlaysLudo",
+			"request": "launch",
+			"mainClass": "ChefPlaysLudo",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CheflandTax",
+			"request": "launch",
+			"mainClass": "CheflandTax",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CheflandVisa",
+			"request": "launch",
+			"mainClass": "CheflandVisa",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChefsTodo",
+			"request": "launch",
+			"mainClass": "ChefsTodo",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChessFormat",
+			"request": "launch",
+			"mainClass": "ChessFormat",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChessRatings",
+			"request": "launch",
+			"mainClass": "ChessRatings",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChessTime",
+			"request": "launch",
+			"mainClass": "ChessTime",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChessboardDistance",
+			"request": "launch",
+			"mainClass": "ChessboardDistance",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ChocolateMonger",
+			"request": "launch",
+			"mainClass": "ChocolateMonger",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CielAndReceipt",
+			"request": "launch",
+			"mainClass": "CielAndReceipt",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CircularTrack",
+			"request": "launch",
+			"mainClass": "CircularTrack",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CodechefAirlines",
+			"request": "launch",
+			"mainClass": "CodechefAirlines",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Coldplay",
+			"request": "launch",
+			"mainClass": "Coldplay",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ColorTheCube",
+			"request": "launch",
+			"mainClass": "ColorTheCube",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CompleteTheCredits",
+			"request": "launch",
+			"mainClass": "CompleteTheCredits",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CompressTheVideo",
+			"request": "launch",
+			"mainClass": "CompressTheVideo",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ConstructN",
+			"request": "launch",
+			"mainClass": "ConstructN",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CostOfGroceries",
+			"request": "launch",
+			"mainClass": "CostOfGroceries",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CountTheHolidays",
+			"request": "launch",
+			"mainClass": "CountTheHolidays",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CountTheNotebooks",
+			"request": "launch",
+			"mainClass": "CountTheNotebooks",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CountingPrettyNumbers",
+			"request": "launch",
+			"mainClass": "CountingPrettyNumbers",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CountingWords",
+			"request": "launch",
+			"mainClass": "CountingWords",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CourseRegistration",
+			"request": "launch",
+			"mainClass": "CourseRegistration",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CreditScore",
+			"request": "launch",
+			"mainClass": "CreditScore",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CricketRanking",
+			"request": "launch",
+			"mainClass": "CricketRanking",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch CuttingRecipes",
+			"request": "launch",
+			"mainClass": "CuttingRecipes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DecrementORIncrement",
+			"request": "launch",
+			"mainClass": "DecrementORIncrement",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DefeatTheMonster1",
+			"request": "launch",
+			"mainClass": "DefeatTheMonster1",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DegreeOfPolynomial",
+			"request": "launch",
+			"mainClass": "DegreeOfPolynomial",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DetermineTheScore",
+			"request": "launch",
+			"mainClass": "DetermineTheScore",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DevendraAndWaterSports",
+			"request": "launch",
+			"mainClass": "DevendraAndWaterSports",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DevuAndFriendshipTesting",
+			"request": "launch",
+			"mainClass": "DevuAndFriendshipTesting",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DiffColors",
+			"request": "launch",
+			"mainClass": "DiffColors",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Discount",
+			"request": "launch",
+			"mainClass": "Discount",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DiscusThrow",
+			"request": "launch",
+			"mainClass": "DiscusThrow",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DistinctPairSums",
+			"request": "launch",
+			"mainClass": "DistinctPairSums",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DivisibleBy3",
+			"request": "launch",
+			"mainClass": "DivisibleBy3",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DominantArmy",
+			"request": "launch",
+			"mainClass": "DominantArmy",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch DrunkAlcoholic",
+			"request": "launch",
+			"mainClass": "DrunkAlcoholic",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EasyPronunciation",
+			"request": "launch",
+			"mainClass": "EasyPronunciation",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EconomicsClass",
+			"request": "launch",
+			"mainClass": "EconomicsClass",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ElectionsInChefland",
+			"request": "launch",
+			"mainClass": "ElectionsInChefland",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EmailReminders",
+			"request": "launch",
+			"mainClass": "EmailReminders",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EmotionalProximity",
+			"request": "launch",
+			"mainClass": "EmotionalProximity",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EncodingMessage",
+			"request": "launch",
+			"mainClass": "EncodingMessage",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EndSorted",
+			"request": "launch",
+			"mainClass": "EndSorted",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EnoughSpace",
+			"request": "launch",
+			"mainClass": "EnoughSpace",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EqualDistribution",
+			"request": "launch",
+			"mainClass": "EqualDistribution",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EqualIntegers",
+			"request": "launch",
+			"mainClass": "EqualIntegers",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EqualizingNumbers",
+			"request": "launch",
+			"mainClass": "EqualizingNumbers",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EvenSplits",
+			"request": "launch",
+			"mainClass": "EvenSplits",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EventualReduction",
+			"request": "launch",
+			"mainClass": "EventualReduction",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ExpenseList",
+			"request": "launch",
+			"mainClass": "ExpenseList",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ExpertSetter",
+			"request": "launch",
+			"mainClass": "ExpertSetter",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ExpiringBread",
+			"request": "launch",
+			"mainClass": "ExpiringBread",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch EzioAndApple",
+			"request": "launch",
+			"mainClass": "EzioAndApple",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Factorial",
+			"request": "launch",
+			"mainClass": "Factorial",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FarAway",
+			"request": "launch",
+			"mainClass": "FarAway",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FarFromOrigin",
+			"request": "launch",
+			"mainClass": "FarFromOrigin",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FarmerAndHisPlot",
+			"request": "launch",
+			"mainClass": "FarmerAndHisPlot",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Fever",
+			"request": "launch",
+			"mainClass": "Fever",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FillCandiesDifficulty",
+			"request": "launch",
+			"mainClass": "FillCandiesDifficulty",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FillTheGrid",
+			"request": "launch",
+			"mainClass": "FillTheGrid",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FilltheBucket",
+			"request": "launch",
+			"mainClass": "FilltheBucket",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FinalPopulation",
+			"request": "launch",
+			"mainClass": "FinalPopulation",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FindTheDirection",
+			"request": "launch",
+			"mainClass": "FindTheDirection",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FindingShoes",
+			"request": "launch",
+			"mainClass": "FindingShoes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FlipTheCards",
+			"request": "launch",
+			"mainClass": "FlipTheCards",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FootballCup",
+			"request": "launch",
+			"mainClass": "FootballCup",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch FromHeavenToEarth",
+			"request": "launch",
+			"mainClass": "FromHeavenToEarth",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GCDAndLCM",
+			"request": "launch",
+			"mainClass": "GCDAndLCM",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GameBetweenFriends",
+			"request": "launch",
+			"mainClass": "GameBetweenFriends",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Genes",
+			"request": "launch",
+			"mainClass": "Genes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GetLowestFree",
+			"request": "launch",
+			"mainClass": "GetLowestFree",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GetSubscription",
+			"request": "launch",
+			"mainClass": "GetSubscription",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GiftShopAndCoupon",
+			"request": "launch",
+			"mainClass": "GiftShopAndCoupon",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GoldMining",
+			"request": "launch",
+			"mainClass": "GoldMining",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GoodInvestmentOrNot",
+			"request": "launch",
+			"mainClass": "GoodInvestmentOrNot",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GoodProgram",
+			"request": "launch",
+			"mainClass": "GoodProgram",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GoodQualityBulbs",
+			"request": "launch",
+			"mainClass": "GoodQualityBulbs",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GoodWeather",
+			"request": "launch",
+			"mainClass": "GoodWeather",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GradeTheSteel",
+			"request": "launch",
+			"mainClass": "GradeTheSteel",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GreaterAverage",
+			"request": "launch",
+			"mainClass": "GreaterAverage",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GrossSalary",
+			"request": "launch",
+			"mainClass": "GrossSalary",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GroupAssignment",
+			"request": "launch",
+			"mainClass": "GroupAssignment",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch GuessTheBottomFace",
+			"request": "launch",
+			"mainClass": "GuessTheBottomFace",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HOWMANYDIGITSDOIHAVE",
+			"request": "launch",
+			"mainClass": "HOWMANYDIGITSDOIHAVE",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Hackerman",
+			"request": "launch",
+			"mainClass": "Hackerman",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HappyString",
+			"request": "launch",
+			"mainClass": "HappyString",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HardestProblemBet",
+			"request": "launch",
+			"mainClass": "HardestProblemBet",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HeightOfRationals",
+			"request": "launch",
+			"mainClass": "HeightOfRationals",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HelpingChef",
+			"request": "launch",
+			"mainClass": "HelpingChef",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HiddenNumbers",
+			"request": "launch",
+			"mainClass": "HiddenNumbers",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HoopJump",
+			"request": "launch",
+			"mainClass": "HoopJump",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HowManyUnattemptedProblem",
+			"request": "launch",
+			"mainClass": "HowManyUnattemptedProblem",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch HowMuchScholarship",
+			"request": "launch",
+			"mainClass": "HowMuchScholarship",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ICPCBalloons",
+			"request": "launch",
+			"mainClass": "ICPCBalloons",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch IQIncrease",
+			"request": "launch",
+			"mainClass": "IQIncrease",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ImportantPagesOnCodeChef",
+			"request": "launch",
+			"mainClass": "ImportantPagesOnCodeChef",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Indivisible",
+			"request": "launch",
+			"mainClass": "Indivisible",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Instagram",
+			"request": "launch",
+			"mainClass": "Instagram",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Insurance",
+			"request": "launch",
+			"mainClass": "Insurance",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch IntegersThatSumToSameValue",
+			"request": "launch",
+			"mainClass": "IntegersThatSumToSameValue",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch InteriorDesign",
+			"request": "launch",
+			"mainClass": "InteriorDesign",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch IsTheScoreConsistent",
+			"request": "launch",
+			"mainClass": "IsTheScoreConsistent",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch IsitaVOWELorCONSONANT",
+			"request": "launch",
+			"mainClass": "IsitaVOWELorCONSONANT",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ItIsMyServe",
+			"request": "launch",
+			"mainClass": "ItIsMyServe",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch JanmanshAndAssignments",
+			"request": "launch",
+			"mainClass": "JanmanshAndAssignments",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch JanmanshAndCoins",
+			"request": "launch",
+			"mainClass": "JanmanshAndCoins",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch JanmanshAndGames",
+			"request": "launch",
+			"mainClass": "JanmanshAndGames",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch JengaNight",
+			"request": "launch",
+			"mainClass": "JengaNight",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch JoiningDate",
+			"request": "launch",
+			"mainClass": "JoiningDate",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch KitchenTimetable",
+			"request": "launch",
+			"mainClass": "KitchenTimetable",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch KitchenTimings",
+			"request": "launch",
+			"mainClass": "KitchenTimings",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch LazyChef",
+			"request": "launch",
+			"mainClass": "LazyChef",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch LazySalesman",
+			"request": "launch",
+			"mainClass": "LazySalesman",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch LifeTheUniverseAndEverything",
+			"request": "launch",
+			"mainClass": "LifeTheUniverseAndEverything",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch LuckyFour",
+			"request": "launch",
+			"mainClass": "LuckyFour",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch LuckyNumber",
+			"request": "launch",
+			"mainClass": "LuckyNumber",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch LuckyNumbers",
+			"request": "launch",
+			"mainClass": "LuckyNumbers",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Lunchtime",
+			"request": "launch",
+			"mainClass": "Lunchtime",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch M400Race",
+			"request": "launch",
+			"mainClass": "M400Race",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MATH1Enrolment",
+			"request": "launch",
+			"mainClass": "MATH1Enrolment",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Mahasena",
+			"request": "launch",
+			"mainClass": "Mahasena",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MakeAAndBEqual",
+			"request": "launch",
+			"mainClass": "MakeAAndBEqual",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MakeAP",
+			"request": "launch",
+			"mainClass": "MakeAP",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MakeAllEqualUsingPairs",
+			"request": "launch",
+			"mainClass": "MakeAllEqualUsingPairs",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ManaPoints",
+			"request": "launch",
+			"mainClass": "ManaPoints",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Marathon",
+			"request": "launch",
+			"mainClass": "Marathon",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Mario",
+			"request": "launch",
+			"mainClass": "Mario",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MarioAndBrokenString",
+			"request": "launch",
+			"mainClass": "MarioAndBrokenString",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MarioAndBullet",
+			"request": "launch",
+			"mainClass": "MarioAndBullet",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaxMinusMin",
+			"request": "launch",
+			"mainClass": "MaxMinusMin",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaximiseTheSubsequenceSum",
+			"request": "launch",
+			"mainClass": "MaximiseTheSubsequenceSum",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaximiseTheTastiness",
+			"request": "launch",
+			"mainClass": "MaximiseTheTastiness",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaximizeTheMin",
+			"request": "launch",
+			"mainClass": "MaximizeTheMin",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaximumLengthEvenSubarray",
+			"request": "launch",
+			"mainClass": "MaximumLengthEvenSubarray",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaximumProduction",
+			"request": "launch",
+			"mainClass": "MaximumProduction",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaximumSubmissions",
+			"request": "launch",
+			"mainClass": "MaximumSubmissions",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MaximumTrio",
+			"request": "launch",
+			"mainClass": "MaximumTrio",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MiamiGP",
+			"request": "launch",
+			"mainClass": "MiamiGP",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MinimumAttendanceRequirement",
+			"request": "launch",
+			"mainClass": "MinimumAttendanceRequirement",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MinimumCarsRequired",
+			"request": "launch",
+			"mainClass": "MinimumCarsRequired",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MinimumCoins",
+			"request": "launch",
+			"mainClass": "MinimumCoins",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MinimumNumberOfCoins",
+			"request": "launch",
+			"mainClass": "MinimumNumberOfCoins",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MinimumNumberOfFlips",
+			"request": "launch",
+			"mainClass": "MinimumNumberOfFlips",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MinimumNumberOfOnes",
+			"request": "launch",
+			"mainClass": "MinimumNumberOfOnes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MinimumPizzas",
+			"request": "launch",
+			"mainClass": "MinimumPizzas",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MonopolyInChefland",
+			"request": "launch",
+			"mainClass": "MonopolyInChefland",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MonthlyBudget",
+			"request": "launch",
+			"mainClass": "MonthlyBudget",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Motivation",
+			"request": "launch",
+			"mainClass": "Motivation",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MultivitaminTablets",
+			"request": "launch",
+			"mainClass": "MultivitaminTablets",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MutatedMinions",
+			"request": "launch",
+			"mainClass": "MutatedMinions",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch MyVery1stContest",
+			"request": "launch",
+			"mainClass": "MyVery1stContest",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NButtons1Bulb",
+			"request": "launch",
+			"mainClass": "NButtons1Bulb",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NaiveChef",
+			"request": "launch",
+			"mainClass": "NaiveChef",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NegativeProduct",
+			"request": "launch",
+			"mainClass": "NegativeProduct",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Netflix",
+			"request": "launch",
+			"mainClass": "Netflix",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NoTimeToWait",
+			"request": "launch",
+			"mainClass": "NoTimeToWait",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NonNegativeProduct",
+			"request": "launch",
+			"mainClass": "NonNegativeProduct",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NumberMirror",
+			"request": "launch",
+			"mainClass": "NumberMirror",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NumberOfCredits",
+			"request": "launch",
+			"mainClass": "NumberOfCredits",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch NumberOfRectangles",
+			"request": "launch",
+			"mainClass": "NumberOfRectangles",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch OddPairs",
+			"request": "launch",
+			"mainClass": "OddPairs",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch OddSumPair",
+			"request": "launch",
+			"mainClass": "OddSumPair",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch OddsAndEvens",
+			"request": "launch",
+			"mainClass": "OddsAndEvens",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch OlympicsRanking",
+			"request": "launch",
+			"mainClass": "OlympicsRanking",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PackagingCupcakes",
+			"request": "launch",
+			"mainClass": "PackagingCupcakes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PaperCutting",
+			"request": "launch",
+			"mainClass": "PaperCutting",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Parity",
+			"request": "launch",
+			"mainClass": "Parity",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PassOrFail",
+			"request": "launch",
+			"mainClass": "PassOrFail",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PassesForFair",
+			"request": "launch",
+			"mainClass": "PassesForFair",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PeacefulParty",
+			"request": "launch",
+			"mainClass": "PeacefulParty",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PenaltyShots",
+			"request": "launch",
+			"mainClass": "PenaltyShots",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PerfectTrio",
+			"request": "launch",
+			"mainClass": "PerfectTrio",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PetStore",
+			"request": "launch",
+			"mainClass": "PetStore",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PixelDamage",
+			"request": "launch",
+			"mainClass": "PixelDamage",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PlayingWithMatches",
+			"request": "launch",
+			"mainClass": "PlayingWithMatches",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Playlist",
+			"request": "launch",
+			"mainClass": "Playlist",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PodiumFinish",
+			"request": "launch",
+			"mainClass": "PodiumFinish",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PointsAndLines",
+			"request": "launch",
+			"mainClass": "PointsAndLines",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PoliceAndThief",
+			"request": "launch",
+			"mainClass": "PoliceAndThief",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PossibleVictory",
+			"request": "launch",
+			"mainClass": "PossibleVictory",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PrimalityTest",
+			"request": "launch",
+			"mainClass": "PrimalityTest",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PrimeReversal",
+			"request": "launch",
+			"mainClass": "PrimeReversal",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ProblemCategory",
+			"request": "launch",
+			"mainClass": "ProblemCategory",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ProfitIncrement",
+			"request": "launch",
+			"mainClass": "ProfitIncrement",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ProgramYourOwnCALCULATOR",
+			"request": "launch",
+			"mainClass": "ProgramYourOwnCALCULATOR",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ProgrammingLanguages",
+			"request": "launch",
+			"mainClass": "ProgrammingLanguages",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch PuppyAndSum",
+			"request": "launch",
+			"mainClass": "PuppyAndSum",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch QualifyTheRound",
+			"request": "launch",
+			"mainClass": "QualifyTheRound",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RCBAndPlayoffs",
+			"request": "launch",
+			"mainClass": "RCBAndPlayoffs",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RainInChefland",
+			"request": "launch",
+			"mainClass": "RainInChefland",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RanklistPages",
+			"request": "launch",
+			"mainClass": "RanklistPages",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RatingProblem",
+			"request": "launch",
+			"mainClass": "RatingProblem",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ReachFast",
+			"request": "launch",
+			"mainClass": "ReachFast",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ReachTheGoal",
+			"request": "launch",
+			"mainClass": "ReachTheGoal",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ReadPages",
+			"request": "launch",
+			"mainClass": "ReadPages",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RearrangingToGetMultipleOf5",
+			"request": "launch",
+			"mainClass": "RearrangingToGetMultipleOf5",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RecentContestProblems",
+			"request": "launch",
+			"mainClass": "RecentContestProblems",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RedLightGreenLight",
+			"request": "launch",
+			"mainClass": "RedLightGreenLight",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RedistributingChocolates",
+			"request": "launch",
+			"mainClass": "RedistributingChocolates",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Relativity",
+			"request": "launch",
+			"mainClass": "Relativity",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch RichieRich",
+			"request": "launch",
+			"mainClass": "RichieRich",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SastaSharkTank",
+			"request": "launch",
+			"mainClass": "SastaSharkTank",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SavingTaxes",
+			"request": "launch",
+			"mainClass": "SavingTaxes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ScaleneTriangle",
+			"request": "launch",
+			"mainClass": "ScaleneTriangle",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SecondLargest",
+			"request": "launch",
+			"mainClass": "SecondLargest",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SecondMax",
+			"request": "launch",
+			"mainClass": "SecondMax",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SelfDefenceTraining",
+			"request": "launch",
+			"mainClass": "SelfDefenceTraining",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ShoeFit",
+			"request": "launch",
+			"mainClass": "ShoeFit",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ShoppingChange",
+			"request": "launch",
+			"mainClass": "ShoppingChange",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SimpleStatistics",
+			"request": "launch",
+			"mainClass": "SimpleStatistics",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SixFriends",
+			"request": "launch",
+			"mainClass": "SixFriends",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SleepDeprivation",
+			"request": "launch",
+			"mainClass": "SleepDeprivation",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SlowSolution",
+			"request": "launch",
+			"mainClass": "SlowSolution",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SmallFactorial",
+			"request": "launch",
+			"mainClass": "SmallFactorial",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SmallestPossibleWholeNumber",
+			"request": "launch",
+			"mainClass": "SmallestPossibleWholeNumber",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SnakeProcession",
+			"request": "launch",
+			"mainClass": "SnakeProcession",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Snapchat",
+			"request": "launch",
+			"mainClass": "Snapchat",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Solubility",
+			"request": "launch",
+			"mainClass": "Solubility",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Speciality",
+			"request": "launch",
+			"mainClass": "Speciality",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SpeedLimitTest",
+			"request": "launch",
+			"mainClass": "SpeedLimitTest",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SpiceLevel",
+			"request": "launch",
+			"mainClass": "SpiceLevel",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Squats",
+			"request": "launch",
+			"mainClass": "Squats",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch StringGame",
+			"request": "launch",
+			"mainClass": "StringGame",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Subscriptions",
+			"request": "launch",
+			"mainClass": "Subscriptions",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SugarcaneJuiceBusiness",
+			"request": "launch",
+			"mainClass": "SugarcaneJuiceBusiness",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SumIt",
+			"request": "launch",
+			"mainClass": "SumIt",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SumOrDifference",
+			"request": "launch",
+			"mainClass": "SumOrDifference",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch SummerHeat",
+			"request": "launch",
+			"mainClass": "SummerHeat",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TaxiCost",
+			"request": "launch",
+			"mainClass": "TaxiCost",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Tekken",
+			"request": "launch",
+			"mainClass": "Tekken",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TestAverages",
+			"request": "launch",
+			"mainClass": "TestAverages",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TestScore",
+			"request": "launch",
+			"mainClass": "TestScore",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ThatIsMyScore",
+			"request": "launch",
+			"mainClass": "ThatIsMyScore",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheBeginingEraOfCyberverse",
+			"request": "launch",
+			"mainClass": "TheBeginingEraOfCyberverse",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheBlockGame",
+			"request": "launch",
+			"mainClass": "TheBlockGame",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheCheaperCab",
+			"request": "launch",
+			"mainClass": "TheCheaperCab",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheCoolerDilemma1",
+			"request": "launch",
+			"mainClass": "TheCoolerDilemma1",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheCoolerDilemma2",
+			"request": "launch",
+			"mainClass": "TheCoolerDilemma2",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheLastLevels",
+			"request": "launch",
+			"mainClass": "TheLastLevels",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheLeadGame",
+			"request": "launch",
+			"mainClass": "TheLeadGame",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheOldSaintAndThreeQuestions",
+			"request": "launch",
+			"mainClass": "TheOldSaintAndThreeQuestions",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ThePreparations",
+			"request": "launch",
+			"mainClass": "ThePreparations",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheRatingDilemma",
+			"request": "launch",
+			"mainClass": "TheRatingDilemma",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheThreeTopics",
+			"request": "launch",
+			"mainClass": "TheThreeTopics",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TheTwoDishes",
+			"request": "launch",
+			"mainClass": "TheTwoDishes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ThreeNumberExpression",
+			"request": "launch",
+			"mainClass": "ThreeNumberExpression",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TicketFine",
+			"request": "launch",
+			"mainClass": "TicketFine",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TimeComplexity",
+			"request": "launch",
+			"mainClass": "TimeComplexity",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Timely",
+			"request": "launch",
+			"mainClass": "Timely",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TomAndJerry1",
+			"request": "launch",
+			"mainClass": "TomAndJerry1",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TomAndJerryChase",
+			"request": "launch",
+			"mainClass": "TomAndJerryChase",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TooManyFloors",
+			"request": "launch",
+			"mainClass": "TooManyFloors",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TooManyItems",
+			"request": "launch",
+			"mainClass": "TooManyItems",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TotalExpenses",
+			"request": "launch",
+			"mainClass": "TotalExpenses",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TotalPrizeMoney",
+			"request": "launch",
+			"mainClass": "TotalPrizeMoney",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TourOfKing",
+			"request": "launch",
+			"mainClass": "TourOfKing",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TransformTheExpression",
+			"request": "launch",
+			"mainClass": "TransformTheExpression",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TrueAndFalsePaper",
+			"request": "launch",
+			"mainClass": "TrueAndFalsePaper",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TurnIt",
+			"request": "launch",
+			"mainClass": "TurnIt",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TwoDishes",
+			"request": "launch",
+			"mainClass": "TwoDishes",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TwoRanges",
+			"request": "launch",
+			"mainClass": "TwoRanges",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TwoRooks",
+			"request": "launch",
+			"mainClass": "TwoRooks",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TwoVsTen",
+			"request": "launch",
+			"mainClass": "TwoVsTen",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch TyreProblem",
+			"request": "launch",
+			"mainClass": "TyreProblem",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch UncleJohny",
+			"request": "launch",
+			"mainClass": "UncleJohny",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch UtkarshAndPlacementTests",
+			"request": "launch",
+			"mainClass": "UtkarshAndPlacementTests",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch VaccineDates",
+			"request": "launch",
+			"mainClass": "VaccineDates",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ValentineIsComing",
+			"request": "launch",
+			"mainClass": "ValentineIsComing",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ValidTriangles",
+			"request": "launch",
+			"mainClass": "ValidTriangles",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch VolumnControl",
+			"request": "launch",
+			"mainClass": "VolumnControl",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WATestCases",
+			"request": "launch",
+			"mainClass": "WATestCases",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WaitingTime",
+			"request": "launch",
+			"mainClass": "WaitingTime",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WatchingMoviesAt2x",
+			"request": "launch",
+			"mainClass": "WatchingMoviesAt2x",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WaterMixing",
+			"request": "launch",
+			"mainClass": "WaterMixing",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WaterRequirement",
+			"request": "launch",
+			"mainClass": "WaterRequirement",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WatsonAsksDoesPermutationExist",
+			"request": "launch",
+			"mainClass": "WatsonAsksDoesPermutationExist",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WeightBalance",
+			"request": "launch",
+			"mainClass": "WeightBalance",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Weights",
+			"request": "launch",
+			"mainClass": "Weights",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WhichMixture",
+			"request": "launch",
+			"mainClass": "WhichMixture",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WhoIsTaller",
+			"request": "launch",
+			"mainClass": "WhoIsTaller",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch Wordle",
+			"request": "launch",
+			"mainClass": "Wordle",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch WorldChessChampionship",
+			"request": "launch",
+			"mainClass": "WorldChessChampionship",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch XJumps",
+			"request": "launch",
+			"mainClass": "XJumps",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ZeroOnesEqualOneZeros",
+			"request": "launch",
+			"mainClass": "ZeroOnesEqualOneZeros",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch ZeroString",
+			"request": "launch",
+			"mainClass": "ZeroString",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch fitness",
+			"request": "launch",
+			"mainClass": "fitness",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch myTestPresonal",
+			"request": "launch",
+			"mainClass": "myTestPresonal",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch practiceMakesUsPerfect",
+			"request": "launch",
+			"mainClass": "practiceMakesUsPerfect",
+			"projectName": "CodeChef_ee09d8ec"
+		},
+		{
+			"type": "java",
+			"name": "Launch rouggh",
+			"request": "launch",
+			"mainClass": "rouggh",
+			"projectName": "CodeChef_ee09d8ec"
+		}
+	]
 }

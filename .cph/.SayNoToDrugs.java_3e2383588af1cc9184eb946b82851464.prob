@@ -1,0 +1,1 @@
+{"name":"Local: SayNoToDrugs","url":"/media/storage/CodeChef-Solutions/SayNoToDrugs.java","tests":[{"id":1690252860863,"input":"3\n4 2 2\n2 1 3 2\n4 2 2\n2 1 4 2\n3 -10 100\n12 11 9","output":"Yes\nNo\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/SayNoToDrugs.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ClosingTheTweets","url":"/media/storage/CodeChef-Solutions/ClosingTheTweets.java","tests":[{"id":1690612174582,"input":"3 6\nCLICK 1\nCLICK 2\nCLICK 3\nCLICK 2\nCLOSEALL\nCLICK 1","output":"1\n2\n3\n2\n0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/ClosingTheTweets.java","group":"local","local":true}

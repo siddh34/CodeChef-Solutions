@@ -1,0 +1,1 @@
+{"name":"Local: HowManyMaximums","url":"/media/storage/CodeChef-Solutions/HowManyMaximums.java","tests":[{"id":1690457110122,"input":"3\n2\n0\n7\n000111\n6\n11100","output":"1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/HowManyMaximums.java","group":"local","local":true}
