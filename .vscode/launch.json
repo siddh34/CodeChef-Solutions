@@ -6,6 +6,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "IsolationCenters",
+			"request": "launch",
+			"mainClass": "IsolationCenters",
+			"projectName": "CodeChef-Solutions_11de156e"
+		},
+		{
+			"type": "java",
 			"name": "ClosingTheTweets",
 			"request": "launch",
 			"mainClass": "ClosingTheTweets",

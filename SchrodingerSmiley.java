@@ -26,7 +26,9 @@ public class SchrodingerSmiley {
 
             String str = sc.next();
 
-            int count =  countSchrodingerSmileys(str);
+            int count = N;
+
+            count =  countSchrodingerSmileys(str);
 
             System.out.println(count);
         }
