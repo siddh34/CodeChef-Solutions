@@ -1,0 +1,1 @@
+{"name":"Local: ReversalSorting","url":"/media/storage/CodeChef-Solutions/ReversalSorting.java","tests":[{"id":1691804787195,"input":"3\n4 1\n1 2 3 4\n4 1\n2 1 3 4\n5 7\n3 2 2 3 3","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/ReversalSorting.java","group":"local","local":true}

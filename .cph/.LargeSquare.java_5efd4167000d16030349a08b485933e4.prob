@@ -1,0 +1,1 @@
+{"name":"Local: LargeSquare","url":"/media/storage/CodeChef-Solutions/LargeSquare.java","tests":[{"id":1692238475687,"input":"5\n3 2\n5 3\n16 18\n11 8\n8 6","output":"2\n6\n72\n24\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/LargeSquare.java","group":"local","local":true}

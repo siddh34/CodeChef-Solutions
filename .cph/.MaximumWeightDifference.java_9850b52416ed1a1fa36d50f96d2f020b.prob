@@ -1,0 +1,1 @@
+{"name":"Local: MaximumWeightDifference","url":"/media/storage/CodeChef-Solutions/MaximumWeightDifference.java","tests":[{"id":1691907413814,"input":"2\n5 2\n8 4 5 2 10\n8 3\n1 1 1 1 1 1 1 1","output":"17\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/MaximumWeightDifference.java","group":"local","local":true}
