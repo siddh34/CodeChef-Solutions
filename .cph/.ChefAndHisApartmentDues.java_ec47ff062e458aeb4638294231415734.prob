@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndHisApartmentDues","url":"/media/storage/CodeChef-Solutions/ChefAndHisApartmentDues.java","tests":[{"id":1692419304850,"input":"4\n2\n1 1\n2\n0 0\n3\n0 1 0\n2\n0 1","output":"0\n2200\n2300\n1200"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/ChefAndHisApartmentDues.java","group":"local","local":true}

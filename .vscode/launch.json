@@ -6,6 +6,20 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "PopularRiceRecipe",
+			"request": "launch",
+			"mainClass": "PopularRiceRecipe",
+			"projectName": "CodeChef-Solutions_11de156e"
+		},
+		{
+			"type": "java",
+			"name": "BearAndMilkyCookies",
+			"request": "launch",
+			"mainClass": "BearAndMilkyCookies",
+			"projectName": "CodeChef-Solutions_11de156e"
+		},
+		{
+			"type": "java",
 			"name": "IsolationCenters",
 			"request": "launch",
 			"mainClass": "IsolationCenters",
