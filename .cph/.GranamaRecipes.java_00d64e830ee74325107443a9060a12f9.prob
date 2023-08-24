@@ -1,0 +1,1 @@
+{"name":"Local: GranamaRecipes","url":"/media/storage/CodeChef-Solutions/GranamaRecipes.java","tests":[{"id":1692841440033,"input":"3\nalex axle\nparadise diapers\nalice bob","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/GranamaRecipes.java","group":"local","local":true}
