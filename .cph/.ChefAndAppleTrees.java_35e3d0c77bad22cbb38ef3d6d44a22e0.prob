@@ -1,0 +1,1 @@
+{"name":"Local: ChefAndAppleTrees","url":"/media/storage/CodeChef-Solutions/ChefAndAppleTrees.java","tests":[{"id":1693358568347,"input":"2\n3\n3 3 3\n4\n1 2 3 3","output":"1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/ChefAndAppleTrees.java","group":"local","local":true}

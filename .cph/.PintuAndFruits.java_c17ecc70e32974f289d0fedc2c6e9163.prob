@@ -1,0 +1,1 @@
+{"name":"Local: PintuAndFruits","url":"/media/storage/CodeChef-Solutions/PintuAndFruits.java","tests":[{"id":1693662294820,"input":"1\n6 4\n1 2 3 3 2 2\n7 3 9 1 1 1","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/PintuAndFruits.java","group":"local","local":true}
