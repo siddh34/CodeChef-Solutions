@@ -1,0 +1,1 @@
+{"name":"Local: DivisibleAndNotDivisible","url":"/media/storage/CodeChef-Solutions/DivisibleAndNotDivisible.java","tests":[{"id":1693733907516,"input":"3\n5 2 3\n4 2 3\n10 7 1","output":"8\n8\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/DivisibleAndNotDivisible.java","group":"local","local":true}
