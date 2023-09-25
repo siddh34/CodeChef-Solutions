@@ -1,0 +1,1 @@
+{"name":"Local: EVacuateToMoon","url":"/media/storage/CodeChef-Solutions/EVacuateToMoon.java","tests":[{"id":1694940161218,"input":"3\n1 2 2\n100\n20 40\n2 1 2\n10 20\n11\n3 2 1\n30 30 30\n40 20","output":"80\n20\n50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/EVacuateToMoon.java","group":"local","local":true}

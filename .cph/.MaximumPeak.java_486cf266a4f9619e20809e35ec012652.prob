@@ -1,0 +1,1 @@
+{"name":"Local: MaximumPeak","url":"/media/storage/CodeChef-Solutions/MaximumPeak.java","tests":[{"id":1694654244236,"input":"4\n6\n1 3 5 3 1 9\n7\n3 5 4 7 5 6 3\n4\n1 5 7 8\n3\n9 5 1","output":"5\n3\n4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/MaximumPeak.java","group":"local","local":true}

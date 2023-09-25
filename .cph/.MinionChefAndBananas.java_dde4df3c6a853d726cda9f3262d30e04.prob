@@ -1,0 +1,1 @@
+{"name":"Local: MinionChefAndBananas","url":"/media/storage/CodeChef-Solutions/MinionChefAndBananas.java","tests":[{"id":1695098076981,"input":"3\n3 3\n1 2 3\n3 4\n1 2 3\n4 5\n4 3 2 7","output":"3\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/MinionChefAndBananas.java","group":"local","local":true}

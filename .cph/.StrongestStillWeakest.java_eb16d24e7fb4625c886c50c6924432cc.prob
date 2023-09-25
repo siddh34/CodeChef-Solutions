@@ -1,0 +1,1 @@
+{"name":"Local: StrongestStillWeakest","url":"/media/storage/CodeChef-Solutions/StrongestStillWeakest.java","tests":[{"id":1694741686642,"input":"2 2\n1 1\n2 1","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/storage/CodeChef-Solutions/StrongestStillWeakest.java","group":"local","local":true}
